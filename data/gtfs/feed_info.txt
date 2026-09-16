@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_version
+transit-maps — Anexa 17 + TRASEE URBANE + rozkłady CTP Arad,https://ctparad.ro,ro,20260916,20260916

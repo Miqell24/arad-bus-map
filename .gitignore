@@ -1,0 +1,8 @@
+node_modules/
+# data/gtfs/ is the feed this repo WRITES (from data/src) — kept in git
+data/gtfs-rail/
+data/osm/
+data/*.zip
+data/*.pbf
+data/out/
+__pycache__/

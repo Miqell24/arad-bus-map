@@ -1,0 +1,202 @@
+[
+ {
+  "label": "1B",
+  "kind": "tramvai",
+  "dir": "001b",
+  "slug": "001b",
+  "desc": "1b Fat Frumos - Zona Industriala Vest",
+  "stopPages": 13
+ },
+ {
+  "label": "1",
+  "kind": "tramvai",
+  "dir": "0001",
+  "slug": "0001",
+  "desc": "1 Fat Frumos - Podgoria - Piata Romana",
+  "stopPages": 25
+ },
+ {
+  "label": "3",
+  "kind": "tramvai",
+  "dir": "0003",
+  "slug": "0003",
+  "desc": "3 Fat Frumos - Podgoria-Piata Romana-Gara Aradul Nou",
+  "stopPages": 39
+ },
+ {
+  "label": "6",
+  "kind": "tramvai",
+  "dir": "0006",
+  "slug": "0006",
+  "desc": "Piata Gai - Piata UTA - Piata Romana",
+  "stopPages": 34
+ },
+ {
+  "label": "7",
+  "kind": "tramvai",
+  "dir": "0007",
+  "slug": "0007",
+  "desc": " Fat Frumos - Piata UTA - Podgoria - Piata Romana - Confectii - Piata UTA - Fat Frumos",
+  "stopPages": 29
+ },
+ {
+  "label": "15",
+  "kind": "tramvai",
+  "dir": "0015",
+  "slug": "0015",
+  "desc": "Fat Frumos - Gara CFR - Sere",
+  "stopPages": 22
+ },
+ {
+  "label": "16",
+  "kind": "tramvai",
+  "dir": "0016",
+  "slug": "0016",
+  "desc": "Piata Romana - Podgoria - Sere",
+  "stopPages": 19
+ },
+ {
+  "label": "18b",
+  "kind": "tramvai",
+  "dir": "018b",
+  "slug": "018b",
+  "desc": "Fat Frumos - Piata UTA - Confectii - Piata Romana - Podgoria - Piata UTA - Fat Frumos",
+  "stopPages": 29
+ },
+ {
+  "label": "Vladi.-Podgo.",
+  "kind": "tramvai",
+  "dir": "vlpo",
+  "slug": "vlpo",
+  "desc": "AUTOBUZ: Podgoria - Vladimirescu",
+  "stopPages": 20
+ },
+ {
+  "label": "Ghioroc-Podgo.",
+  "kind": "tramvai",
+  "dir": "ghpo",
+  "slug": "ghpo",
+  "desc": "AUTOBUZ: Podgoria - Ghioroc",
+  "stopPages": 26
+ },
+ {
+  "label": "BUS 7A",
+  "kind": "tramvai",
+  "dir": "007a",
+  "slug": "007a",
+  "desc": "AUTOBUZ: 7A Podgoria - Miorita - Billa - Podgoria",
+  "stopPages": 13
+ },
+ {
+  "label": "BUS 18A",
+  "kind": "tramvai",
+  "dir": "018a",
+  "slug": "018a",
+  "desc": "AUTOBUZ: 18A Podgoria - Billa - Miorita - Podgoria",
+  "stopPages": 13
+ },
+ {
+  "label": "13",
+  "kind": "autobuz",
+  "dir": "013`",
+  "slug": "013_",
+  "desc": "ARAD - HORIA",
+  "stopPages": 2
+ },
+ {
+  "label": "19",
+  "kind": "autobuz",
+  "dir": "0019",
+  "slug": "0019",
+  "desc": "PIATA UTA-VANTULUI",
+  "stopPages": 31
+ },
+ {
+  "label": "21",
+  "kind": "autobuz",
+  "dir": "0021",
+  "slug": "0021",
+  "desc": "PODGORIA – FALEZA SUD",
+  "stopPages": 15
+ },
+ {
+  "label": "31",
+  "kind": "autobuz",
+  "dir": "0031",
+  "slug": "0031",
+  "desc": "PODGORIA - TRENULUI",
+  "stopPages": 13
+ },
+ {
+  "label": "39b",
+  "kind": "autobuz",
+  "dir": "039b",
+  "slug": "039b",
+  "desc": "PODGORIA - ARTARULUI",
+  "stopPages": 9
+ },
+ {
+  "label": "41",
+  "kind": "autobuz",
+  "dir": "0041",
+  "slug": "0041",
+  "desc": "PIATA ROMANA - BUJAC",
+  "stopPages": 22
+ },
+ {
+  "label": "46",
+  "kind": "autobuz",
+  "dir": "0046",
+  "slug": "0046",
+  "desc": "PARCUL RECONCILIERII – CARTIER SAN PAOLO",
+  "stopPages": 26
+ },
+ {
+  "label": "48",
+  "kind": "autobuz",
+  "dir": "0048",
+  "slug": "0048",
+  "desc": "BILLA – ANL – SELGROS – REAL",
+  "stopPages": 11
+ },
+ {
+  "label": "49",
+  "kind": "autobuz",
+  "dir": "0049",
+  "slug": "0049",
+  "desc": "POSADA - CARAIMANULUI",
+  "stopPages": 16
+ },
+ {
+  "label": "49B",
+  "kind": "autobuz",
+  "dir": "049b",
+  "slug": "049b",
+  "desc": "PIATA UTA - ECONOMU -GARA ARADUL NOU",
+  "stopPages": 26
+ },
+ {
+  "label": "52",
+  "kind": "autobuz",
+  "dir": "0052",
+  "slug": "0052",
+  "desc": "PADGORIA - GELU - PODGORIA",
+  "stopPages": 10
+ },
+ {
+  "label": "54",
+  "kind": "autobuz",
+  "dir": "0054",
+  "slug": "0054",
+  "desc": "PODGORIA - IAS MURESUL",
+  "stopPages": 10
+ },
+ {
+  "label": "60",
+  "kind": "autobuz",
+  "dir": "0060",
+  "slug": "0060",
+  "desc": "PIAȚA ROMANĂ - CONCORDIEI",
+  "stopPages": 25
+ }
+]

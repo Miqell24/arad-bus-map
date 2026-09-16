@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+CTPARAD,Compania de Transport Public Arad,https://ctparad.ro,Europe/Bucharest,ro

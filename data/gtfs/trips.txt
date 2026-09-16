@@ -1,0 +1,1723 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+L1b,L,L1b-0-L-0001,Platforma Vest,0,S1
+L1b,L,L1b-0-L-0002,Platforma Vest,0,S1
+L1b,L,L1b-1-L-0003,Făt Frumos,1,S2
+L1b,L,L1b-1-L-0004,Făt Frumos,1,S2
+L1,L,L1-0-L-0005,Făt Frumos,0,S3
+L1,L,L1-0-L-0006,Piața U.T.A.,0,S3
+L1,L,L1-0-L-0007,Piața U.T.A.,0,S3
+L1,L,L1-0-L-0008,Piața U.T.A.,0,S3
+L1,L,L1-0-L-0009,Piața U.T.A.,0,S3
+L1,L,L1-0-L-0010,Piața U.T.A.,0,S3
+L1,L,L1-0-L-0011,Piața U.T.A.,0,S3
+L1,L,L1-0-L-0012,Piața U.T.A.,0,S3
+L1,SD,L1-0-SD-0013,Piața U.T.A.,0,S3
+L1,SD,L1-0-SD-0014,Piața U.T.A.,0,S3
+L1,SD,L1-0-SD-0015,Piața U.T.A.,0,S3
+L1,SD,L1-0-SD-0016,Piața U.T.A.,0,S3
+L1,SD,L1-0-SD-0017,Piața U.T.A.,0,S3
+L1,SD,L1-0-SD-0018,Piața U.T.A.,0,S3
+L1,L,L1-1-L-0019,Piața Romană,1,S4
+L1,L,L1-1-L-0020,Piața Romană,1,S4
+L1,L,L1-1-L-0021,Piața Romană,1,S4
+L1,L,L1-1-L-0022,Piața Romană,1,S4
+L1,L,L1-1-L-0023,Piața Romană,1,S4
+L1,L,L1-1-L-0024,Piața Romană,1,S4
+L1,L,L1-1-L-0025,Piața Romană,1,S4
+L1,SD,L1-1-SD-0026,Piața Romană,1,S4
+L1,SD,L1-1-SD-0027,Piața Romană,1,S4
+L1,SD,L1-1-SD-0028,Piața Romană,1,S4
+L1,SD,L1-1-SD-0029,Piața Romană,1,S4
+L1,SD,L1-1-SD-0030,Piața Romană,1,S4
+L3,L,L3-0-L-0031,Făt Frumos,0,S5
+L3,L,L3-0-L-0032,Făt Frumos,0,S5
+L3,L,L3-0-L-0033,Făt Frumos,0,S5
+L3,L,L3-0-L-0034,Făt Frumos,0,S5
+L3,L,L3-0-L-0035,Făt Frumos,0,S5
+L3,L,L3-0-L-0036,Făt Frumos,0,S5
+L3,L,L3-0-L-0037,Făt Frumos,0,S5
+L3,L,L3-0-L-0038,Făt Frumos,0,S5
+L3,L,L3-0-L-0039,Făt Frumos,0,S5
+L3,L,L3-0-L-0040,Făt Frumos,0,S5
+L3,L,L3-0-L-0041,Făt Frumos,0,S5
+L3,L,L3-0-L-0042,Făt Frumos,0,S5
+L3,L,L3-0-L-0043,Făt Frumos,0,S5
+L3,L,L3-0-L-0044,Făt Frumos,0,S5
+L3,L,L3-0-L-0045,Făt Frumos,0,S5
+L3,L,L3-0-L-0046,Făt Frumos,0,S5
+L3,L,L3-0-L-0047,Făt Frumos,0,S5
+L3,L,L3-0-L-0048,Făt Frumos,0,S5
+L3,L,L3-0-L-0049,Făt Frumos,0,S5
+L3,L,L3-0-L-0050,Făt Frumos,0,S5
+L3,L,L3-0-L-0051,Făt Frumos,0,S5
+L3,L,L3-0-L-0052,Făt Frumos,0,S5
+L3,L,L3-0-L-0053,Făt Frumos,0,S5
+L3,L,L3-0-L-0054,Făt Frumos,0,S5
+L3,L,L3-0-L-0055,Făt Frumos,0,S5
+L3,L,L3-0-L-0056,Făt Frumos,0,S5
+L3,L,L3-0-L-0057,Făt Frumos,0,S5
+L3,L,L3-0-L-0058,Făt Frumos,0,S5
+L3,L,L3-0-L-0059,Făt Frumos,0,S5
+L3,L,L3-0-L-0060,Făt Frumos,0,S5
+L3,L,L3-0-L-0061,Făt Frumos,0,S5
+L3,L,L3-0-L-0062,Făt Frumos,0,S5
+L3,L,L3-0-L-0063,Făt Frumos,0,S5
+L3,L,L3-0-L-0064,Făt Frumos,0,S5
+L3,L,L3-0-L-0065,Făt Frumos,0,S5
+L3,L,L3-0-L-0066,Făt Frumos,0,S5
+L3,L,L3-0-L-0067,Făt Frumos,0,S5
+L3,L,L3-0-L-0068,Făt Frumos,0,S5
+L3,L,L3-0-L-0069,Făt Frumos,0,S5
+L3,L,L3-0-L-0070,Făt Frumos,0,S5
+L3,L,L3-0-L-0071,Făt Frumos,0,S5
+L3,L,L3-0-L-0072,Făt Frumos,0,S5
+L3,L,L3-0-L-0073,Făt Frumos,0,S5
+L3,L,L3-0-L-0074,Făt Frumos,0,S5
+L3,L,L3-0-L-0075,Făt Frumos,0,S5
+L3,L,L3-0-L-0076,Făt Frumos,0,S5
+L3,L,L3-0-L-0077,Făt Frumos,0,S5
+L3,L,L3-0-L-0078,Făt Frumos,0,S5
+L3,L,L3-0-L-0079,Făt Frumos,0,S5
+L3,L,L3-0-L-0080,Făt Frumos,0,S5
+L3,L,L3-0-L-0081,Făt Frumos,0,S5
+L3,L,L3-0-L-0082,Făt Frumos,0,S5
+L3,L,L3-0-L-0083,Făt Frumos,0,S5
+L3,L,L3-0-L-0084,Făt Frumos,0,S5
+L3,L,L3-0-L-0085,Făt Frumos,0,S5
+L3,L,L3-0-L-0086,Făt Frumos,0,S5
+L3,L,L3-0-L-0087,Făt Frumos,0,S5
+L3,L,L3-0-L-0088,Făt Frumos,0,S5
+L3,L,L3-0-L-0089,Făt Frumos,0,S5
+L3,L,L3-0-L-0090,Făt Frumos,0,S5
+L3,L,L3-0-L-0091,Făt Frumos,0,S5
+L3,L,L3-0-L-0092,Făt Frumos,0,S5
+L3,L,L3-0-L-0093,Făt Frumos,0,S5
+L3,L,L3-0-L-0094,Făt Frumos,0,S5
+L3,L,L3-0-L-0095,Făt Frumos,0,S5
+L3,L,L3-0-L-0096,Făt Frumos,0,S5
+L3,L,L3-0-L-0097,Făt Frumos,0,S5
+L3,L,L3-0-L-0098,Făt Frumos,0,S5
+L3,L,L3-0-L-0099,Făt Frumos,0,S5
+L3,L,L3-0-L-0100,Făt Frumos,0,S5
+L3,L,L3-0-L-0101,Făt Frumos,0,S5
+L3,L,L3-0-L-0102,Făt Frumos,0,S5
+L3,L,L3-0-L-0103,Făt Frumos,0,S5
+L3,L,L3-0-L-0104,Făt Frumos,0,S5
+L3,L,L3-0-L-0105,Făt Frumos,0,S5
+L3,L,L3-0-L-0106,Făt Frumos,0,S5
+L3,L,L3-0-L-0107,Făt Frumos,0,S5
+L3,L,L3-0-L-0108,Făt Frumos,0,S5
+L3,L,L3-0-L-0109,Făt Frumos,0,S5
+L3,L,L3-0-L-0110,Făt Frumos,0,S5
+L3,L,L3-0-L-0111,Făt Frumos,0,S5
+L3,L,L3-0-L-0112,Piața U.T.A.,0,S5
+L3,SD,L3-0-SD-0113,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0114,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0115,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0116,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0117,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0118,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0119,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0120,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0121,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0122,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0123,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0124,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0125,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0126,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0127,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0128,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0129,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0130,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0131,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0132,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0133,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0134,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0135,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0136,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0137,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0138,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0139,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0140,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0141,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0142,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0143,Făt Frumos,0,S5
+L3,SD,L3-0-SD-0144,Piața U.T.A.,0,S5
+L3,L,L3-1-L-0145,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0146,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0147,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0148,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0149,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0150,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0151,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0152,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0153,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0154,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0155,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0156,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0157,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0158,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0159,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0160,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0161,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0162,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0163,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0164,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0165,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0166,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0167,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0168,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0169,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0170,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0171,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0172,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0173,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0174,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0175,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0176,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0177,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0178,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0179,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0180,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0181,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0182,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0183,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0184,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0185,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0186,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0187,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0188,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0189,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0190,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0191,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0192,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0193,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0194,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0195,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0196,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0197,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0198,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0199,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0200,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0201,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0202,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0203,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0204,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0205,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0206,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0207,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0208,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0209,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0210,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0211,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0212,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0213,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0214,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0215,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0216,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0217,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0218,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0219,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0220,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0221,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0222,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0223,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0224,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0225,Gara Aradul Nou,1,S6
+L3,L,L3-1-L-0226,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0227,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0228,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0229,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0230,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0231,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0232,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0233,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0234,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0235,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0236,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0237,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0238,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0239,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0240,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0241,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0242,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0243,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0244,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0245,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0246,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0247,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0248,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0249,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0250,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0251,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0252,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0253,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0254,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0255,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0256,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0257,Gara Aradul Nou,1,S6
+L3,SD,L3-1-SD-0258,Gara Aradul Nou,1,S6
+L6,L,L6-0-L-0259,Piața Romană,0,S7
+L6,L,L6-0-L-0260,Piața Romană,0,S7
+L6,L,L6-0-L-0261,Piața Romană,0,S7
+L6,L,L6-0-L-0262,Piața Romană,0,S7
+L6,L,L6-0-L-0263,Piața Romană,0,S7
+L6,L,L6-0-L-0264,Piața Romană,0,S7
+L6,L,L6-0-L-0265,Piața Romană,0,S7
+L6,L,L6-0-L-0266,Piața Romană,0,S7
+L6,L,L6-0-L-0267,Piața Romană,0,S7
+L6,L,L6-0-L-0268,Piața Romană,0,S7
+L6,L,L6-0-L-0269,Piața Romană,0,S7
+L6,L,L6-0-L-0270,Piața Romană,0,S7
+L6,L,L6-0-L-0271,Piața Romană,0,S7
+L6,L,L6-0-L-0272,Piața Romană,0,S7
+L6,L,L6-0-L-0273,Piața Romană,0,S7
+L6,L,L6-0-L-0274,Piața Romană,0,S7
+L6,L,L6-0-L-0275,Piața Romană,0,S7
+L6,L,L6-0-L-0276,Piața Romană,0,S7
+L6,L,L6-0-L-0277,Piața Romană,0,S7
+L6,L,L6-0-L-0278,Piața Romană,0,S7
+L6,L,L6-0-L-0279,Piața Romană,0,S7
+L6,L,L6-0-L-0280,Piața Romană,0,S7
+L6,L,L6-0-L-0281,Piața Romană,0,S7
+L6,L,L6-0-L-0282,Piața Romană,0,S7
+L6,L,L6-0-L-0283,Piața Romană,0,S7
+L6,L,L6-0-L-0284,Piața Romană,0,S7
+L6,L,L6-0-L-0285,Piața Romană,0,S7
+L6,L,L6-0-L-0286,Piața Romană,0,S7
+L6,L,L6-0-L-0287,Piața Romană,0,S7
+L6,L,L6-0-L-0288,Piața Romană,0,S7
+L6,L,L6-0-L-0289,Piața Romană,0,S7
+L6,L,L6-0-L-0290,Piața Romană,0,S7
+L6,L,L6-0-L-0291,Piața Romană,0,S7
+L6,L,L6-0-L-0292,Piața Romană,0,S7
+L6,L,L6-0-L-0293,Piața Romană,0,S7
+L6,L,L6-0-L-0294,Piața Romană,0,S7
+L6,SD,L6-0-SD-0295,Piața Romană,0,S7
+L6,SD,L6-0-SD-0296,Piața Romană,0,S7
+L6,SD,L6-0-SD-0297,Piața Romană,0,S7
+L6,SD,L6-0-SD-0298,Piața Romană,0,S7
+L6,SD,L6-0-SD-0299,Piața Romană,0,S7
+L6,SD,L6-0-SD-0300,Piața Romană,0,S7
+L6,SD,L6-0-SD-0301,Piața Romană,0,S7
+L6,SD,L6-0-SD-0302,Piața Romană,0,S7
+L6,SD,L6-0-SD-0303,Piața Romană,0,S7
+L6,SD,L6-0-SD-0304,Piața Romană,0,S7
+L6,SD,L6-0-SD-0305,Piața Romană,0,S7
+L6,SD,L6-0-SD-0306,Piața Romană,0,S7
+L6,SD,L6-0-SD-0307,Piața Romană,0,S7
+L6,SD,L6-0-SD-0308,Piața Romană,0,S7
+L6,SD,L6-0-SD-0309,Piața Romană,0,S7
+L6,SD,L6-0-SD-0310,Piața Romană,0,S7
+L6,SD,L6-0-SD-0311,Piața Romană,0,S7
+L6,SD,L6-0-SD-0312,Piața Romană,0,S7
+L6,SD,L6-0-SD-0313,Piața Romană,0,S7
+L6,SD,L6-0-SD-0314,Piața Romană,0,S7
+L6,SD,L6-0-SD-0315,Piața Romană,0,S7
+L6,SD,L6-0-SD-0316,Piața Romană,0,S7
+L6,SD,L6-0-SD-0317,Piața Romană,0,S7
+L6,SD,L6-0-SD-0318,Piața Romană,0,S7
+L6,SD,L6-0-SD-0319,Piața Romană,0,S7
+L6,SD,L6-0-SD-0320,Piața Romană,0,S7
+L6,SD,L6-0-SD-0321,Piața Romană,0,S7
+L6,SD,L6-0-SD-0322,Piața Romană,0,S7
+L6,SD,L6-0-SD-0323,Piața Romană,0,S7
+L6,L,L6-1-L-0324,Piața Gai,1,S8
+L6,L,L6-1-L-0325,Piața Gai,1,S8
+L6,L,L6-1-L-0326,Piața Gai,1,S8
+L6,L,L6-1-L-0327,Piața Gai,1,S8
+L6,L,L6-1-L-0328,Piața Gai,1,S8
+L6,L,L6-1-L-0329,Piața Gai,1,S8
+L6,L,L6-1-L-0330,Piața Gai,1,S8
+L6,L,L6-1-L-0331,Piața Gai,1,S8
+L6,L,L6-1-L-0332,Piața Gai,1,S8
+L6,L,L6-1-L-0333,Piața Gai,1,S8
+L6,L,L6-1-L-0334,Piața Gai,1,S8
+L6,L,L6-1-L-0335,Piața Gai,1,S8
+L6,L,L6-1-L-0336,Piața Gai,1,S8
+L6,L,L6-1-L-0337,Piața Gai,1,S8
+L6,L,L6-1-L-0338,Piața Gai,1,S8
+L6,L,L6-1-L-0339,Piața Gai,1,S8
+L6,L,L6-1-L-0340,Piața Gai,1,S8
+L6,L,L6-1-L-0341,Piața Gai,1,S8
+L6,L,L6-1-L-0342,Piața Gai,1,S8
+L6,L,L6-1-L-0343,Piața Gai,1,S8
+L6,L,L6-1-L-0344,Piața Gai,1,S8
+L6,L,L6-1-L-0345,Piața Gai,1,S8
+L6,L,L6-1-L-0346,Piața Gai,1,S8
+L6,L,L6-1-L-0347,Piața Gai,1,S8
+L6,L,L6-1-L-0348,Piața Gai,1,S8
+L6,L,L6-1-L-0349,Piața Gai,1,S8
+L6,L,L6-1-L-0350,Piața Gai,1,S8
+L6,L,L6-1-L-0351,Piața Gai,1,S8
+L6,L,L6-1-L-0352,Piața Gai,1,S8
+L6,L,L6-1-L-0353,Piața Gai,1,S8
+L6,L,L6-1-L-0354,Piața Gai,1,S8
+L6,L,L6-1-L-0355,Piața Gai,1,S8
+L6,L,L6-1-L-0356,Piața Gai,1,S8
+L6,L,L6-1-L-0357,Piața Gai,1,S8
+L6,L,L6-1-L-0358,Piața Gai,1,S8
+L6,SD,L6-1-SD-0359,Piața Gai,1,S8
+L6,SD,L6-1-SD-0360,Piața Gai,1,S8
+L6,SD,L6-1-SD-0361,Piața Gai,1,S8
+L6,SD,L6-1-SD-0362,Piața Gai,1,S8
+L6,SD,L6-1-SD-0363,Piața Gai,1,S8
+L6,SD,L6-1-SD-0364,Piața Gai,1,S8
+L6,SD,L6-1-SD-0365,Piața Gai,1,S8
+L6,SD,L6-1-SD-0366,Piața Gai,1,S8
+L6,SD,L6-1-SD-0367,Piața Gai,1,S8
+L6,SD,L6-1-SD-0368,Piața Gai,1,S8
+L6,SD,L6-1-SD-0369,Piața Gai,1,S8
+L6,SD,L6-1-SD-0370,Piața Gai,1,S8
+L6,SD,L6-1-SD-0371,Piața Gai,1,S8
+L6,SD,L6-1-SD-0372,Piața Gai,1,S8
+L6,SD,L6-1-SD-0373,Piața Gai,1,S8
+L6,SD,L6-1-SD-0374,Piața Gai,1,S8
+L6,SD,L6-1-SD-0375,Piața Gai,1,S8
+L6,SD,L6-1-SD-0376,Piața Gai,1,S8
+L6,SD,L6-1-SD-0377,Piața Gai,1,S8
+L6,SD,L6-1-SD-0378,Piața Gai,1,S8
+L6,SD,L6-1-SD-0379,Piața Gai,1,S8
+L6,SD,L6-1-SD-0380,Piața Gai,1,S8
+L6,SD,L6-1-SD-0381,Piața Gai,1,S8
+L6,SD,L6-1-SD-0382,Piața Gai,1,S8
+L6,SD,L6-1-SD-0383,Piața Gai,1,S8
+L6,SD,L6-1-SD-0384,Piața Gai,1,S8
+L6,SD,L6-1-SD-0385,Piața Gai,1,S8
+L6,SD,L6-1-SD-0386,Piața Gai,1,S8
+L6,SD,L6-1-SD-0387,Piața Gai,1,S8
+L7,L,L7-0-L-0388,Piața Romană,0,S9
+L7,L,L7-0-L-0389,Piața Romană,0,S9
+L7,L,L7-0-L-0390,Piața Romană,0,S9
+L7,L,L7-0-L-0391,Piața Romană,0,S9
+L7,L,L7-0-L-0392,Piața Romană,0,S9
+L7,L,L7-0-L-0393,Piața Romană,0,S9
+L7,L,L7-0-L-0394,Piața Romană,0,S9
+L7,L,L7-0-L-0395,Piața Romană,0,S9
+L7,L,L7-0-L-0396,Piața Romană,0,S9
+L7,L,L7-0-L-0397,Piața Romană,0,S9
+L7,L,L7-0-L-0398,Piața Romană,0,S9
+L7,L,L7-0-L-0399,Piața Romană,0,S9
+L7,L,L7-0-L-0400,Piața Romană,0,S9
+L7,L,L7-0-L-0401,Piața Romană,0,S9
+L7,L,L7-0-L-0402,Piața Romană,0,S9
+L7,L,L7-0-L-0403,Piața Romană,0,S9
+L7,L,L7-0-L-0404,Piața Romană,0,S9
+L7,L,L7-0-L-0405,Piața Romană,0,S9
+L7,L,L7-0-L-0406,Piața Romană,0,S9
+L7,L,L7-0-L-0407,Piața Romană,0,S9
+L7,L,L7-0-L-0408,Piața Romană,0,S9
+L7,L,L7-0-L-0409,Piața Romană,0,S9
+L7,L,L7-0-L-0410,Piața Romană,0,S9
+L7,L,L7-0-L-0411,Piața Romană,0,S9
+L7,L,L7-0-L-0412,Piața Romană,0,S9
+L7,L,L7-0-L-0413,Piața Romană,0,S9
+L7,L,L7-0-L-0414,Piața Romană,0,S9
+L7,L,L7-0-L-0415,Piața Romană,0,S9
+L7,L,L7-0-L-0416,Piața Romană,0,S9
+L7,L,L7-0-L-0417,Piața Romană,0,S9
+L7,L,L7-0-L-0418,Piața Romană,0,S9
+L7,L,L7-0-L-0419,Piața Romană,0,S9
+L7,L,L7-0-L-0420,Piața Romană,0,S9
+L7,L,L7-0-L-0421,Piața Romană,0,S9
+L7,L,L7-0-L-0422,Piața Romană,0,S9
+L7,L,L7-0-L-0423,Piața Romană,0,S9
+L7,L,L7-0-L-0424,Piața Romană,0,S9
+L7,L,L7-0-L-0425,Piața Romană,0,S9
+L7,L,L7-0-L-0426,Piața Romană,0,S9
+L7,L,L7-0-L-0427,Piața Romană,0,S9
+L7,L,L7-0-L-0428,Piața Romană,0,S9
+L7,L,L7-0-L-0429,Piața Romană,0,S9
+L7,L,L7-0-L-0430,Piața Romană,0,S9
+L7,L,L7-0-L-0431,Piața Romană,0,S9
+L7,L,L7-0-L-0432,Piața Romană,0,S9
+L7,L,L7-0-L-0433,Piața Romană,0,S9
+L7,L,L7-0-L-0434,Piața Romană,0,S9
+L7,L,L7-0-L-0435,Piața Romană,0,S9
+L7,L,L7-0-L-0436,Piața Romană,0,S9
+L7,L,L7-0-L-0437,Piața Romană,0,S9
+L7,L,L7-0-L-0438,Piața Romană,0,S9
+L7,L,L7-0-L-0439,Piața Romană,0,S9
+L7,L,L7-0-L-0440,Piața Romană,0,S9
+L7,L,L7-0-L-0441,Piața Romană,0,S9
+L7,L,L7-0-L-0442,Piața Romană,0,S9
+L7,L,L7-0-L-0443,Piața Romană,0,S9
+L7,L,L7-0-L-0444,Piața Romană,0,S9
+L7,L,L7-0-L-0445,Piața Romană,0,S9
+L7,L,L7-0-L-0446,Piața Romană,0,S9
+L7,L,L7-0-L-0447,Piața Romană,0,S9
+L7,L,L7-0-L-0448,Piața Romană,0,S9
+L7,L,L7-0-L-0449,Piața Romană,0,S9
+L7,L,L7-0-L-0450,Piața Romană,0,S9
+L7,L,L7-0-L-0451,Piața Romană,0,S9
+L7,L,L7-0-L-0452,Piața Romană,0,S9
+L7,L,L7-0-L-0453,Piața Romană,0,S9
+L7,L,L7-0-L-0454,Piața Romană,0,S9
+L7,L,L7-0-L-0455,Piața Romană,0,S9
+L7,L,L7-0-L-0456,Piața Romană,0,S9
+L7,L,L7-0-L-0457,Piața Romană,0,S9
+L7,L,L7-0-L-0458,Piața Romană,0,S9
+L7,L,L7-0-L-0459,Piața Romană,0,S9
+L7,L,L7-0-L-0460,Piața Romană,0,S9
+L7,L,L7-0-L-0461,Piața Romană,0,S9
+L7,L,L7-0-L-0462,Piața Romană,0,S9
+L7,L,L7-0-L-0463,Piața Romană,0,S9
+L7,SD,L7-0-SD-0464,Piața Romană,0,S9
+L7,SD,L7-0-SD-0465,Piața Romană,0,S9
+L7,SD,L7-0-SD-0466,Piața Romană,0,S9
+L7,SD,L7-0-SD-0467,Piața Romană,0,S9
+L7,SD,L7-0-SD-0468,Piața Romană,0,S9
+L7,SD,L7-0-SD-0469,Piața Romană,0,S9
+L7,SD,L7-0-SD-0470,Piața Romană,0,S9
+L7,SD,L7-0-SD-0471,Piața Romană,0,S9
+L7,SD,L7-0-SD-0472,Piața Romană,0,S9
+L7,SD,L7-0-SD-0473,Piața Romană,0,S9
+L7,SD,L7-0-SD-0474,Piața Romană,0,S9
+L7,SD,L7-0-SD-0475,Piața Romană,0,S9
+L7,SD,L7-0-SD-0476,Piața Romană,0,S9
+L7,SD,L7-0-SD-0477,Piața Romană,0,S9
+L7,SD,L7-0-SD-0478,Piața Romană,0,S9
+L7,SD,L7-0-SD-0479,Piața Romană,0,S9
+L7,SD,L7-0-SD-0480,Piața Romană,0,S9
+L7,SD,L7-0-SD-0481,Piața Romană,0,S9
+L7,SD,L7-0-SD-0482,Piața Romană,0,S9
+L7,SD,L7-0-SD-0483,Piața Romană,0,S9
+L7,SD,L7-0-SD-0484,Piața Romană,0,S9
+L7,SD,L7-0-SD-0485,Piața Romană,0,S9
+L7,SD,L7-0-SD-0486,Piața Romană,0,S9
+L7,SD,L7-0-SD-0487,Piața Romană,0,S9
+L7,SD,L7-0-SD-0488,Piața Romană,0,S9
+L7,SD,L7-0-SD-0489,Piața Romană,0,S9
+L7,SD,L7-0-SD-0490,Piața Romană,0,S9
+L7,SD,L7-0-SD-0491,Piața Romană,0,S9
+L7,SD,L7-0-SD-0492,Piața Romană,0,S9
+L7,SD,L7-0-SD-0493,Piața Romană,0,S9
+L7,L,L7-1-L-0494,Făt Frumos,1,S10
+L7,L,L7-1-L-0495,Făt Frumos,1,S10
+L7,L,L7-1-L-0496,Făt Frumos,1,S10
+L7,L,L7-1-L-0497,Făt Frumos,1,S10
+L7,L,L7-1-L-0498,Făt Frumos,1,S10
+L7,L,L7-1-L-0499,Făt Frumos,1,S10
+L7,L,L7-1-L-0500,Făt Frumos,1,S10
+L7,L,L7-1-L-0501,Făt Frumos,1,S10
+L7,L,L7-1-L-0502,Făt Frumos,1,S10
+L7,L,L7-1-L-0503,Făt Frumos,1,S10
+L7,L,L7-1-L-0504,Făt Frumos,1,S10
+L7,L,L7-1-L-0505,Făt Frumos,1,S10
+L7,L,L7-1-L-0506,Făt Frumos,1,S10
+L7,L,L7-1-L-0507,Făt Frumos,1,S10
+L7,L,L7-1-L-0508,Făt Frumos,1,S10
+L7,L,L7-1-L-0509,Făt Frumos,1,S10
+L7,L,L7-1-L-0510,Făt Frumos,1,S10
+L7,L,L7-1-L-0511,Făt Frumos,1,S10
+L7,L,L7-1-L-0512,Făt Frumos,1,S10
+L7,L,L7-1-L-0513,Făt Frumos,1,S10
+L7,L,L7-1-L-0514,Făt Frumos,1,S10
+L7,L,L7-1-L-0515,Făt Frumos,1,S10
+L7,L,L7-1-L-0516,Făt Frumos,1,S10
+L7,L,L7-1-L-0517,Făt Frumos,1,S10
+L7,L,L7-1-L-0518,Făt Frumos,1,S10
+L7,L,L7-1-L-0519,Făt Frumos,1,S10
+L7,L,L7-1-L-0520,Făt Frumos,1,S10
+L7,L,L7-1-L-0521,Făt Frumos,1,S10
+L7,L,L7-1-L-0522,Făt Frumos,1,S10
+L7,L,L7-1-L-0523,Făt Frumos,1,S10
+L7,L,L7-1-L-0524,Făt Frumos,1,S10
+L7,L,L7-1-L-0525,Făt Frumos,1,S10
+L7,L,L7-1-L-0526,Făt Frumos,1,S10
+L7,L,L7-1-L-0527,Făt Frumos,1,S10
+L7,L,L7-1-L-0528,Făt Frumos,1,S10
+L7,L,L7-1-L-0529,Făt Frumos,1,S10
+L7,L,L7-1-L-0530,Făt Frumos,1,S10
+L7,L,L7-1-L-0531,Făt Frumos,1,S10
+L7,L,L7-1-L-0532,Făt Frumos,1,S10
+L7,L,L7-1-L-0533,Făt Frumos,1,S10
+L7,L,L7-1-L-0534,Făt Frumos,1,S10
+L7,L,L7-1-L-0535,Făt Frumos,1,S10
+L7,L,L7-1-L-0536,Făt Frumos,1,S10
+L7,L,L7-1-L-0537,Făt Frumos,1,S10
+L7,L,L7-1-L-0538,Făt Frumos,1,S10
+L7,L,L7-1-L-0539,Făt Frumos,1,S10
+L7,L,L7-1-L-0540,Făt Frumos,1,S10
+L7,L,L7-1-L-0541,Făt Frumos,1,S10
+L7,L,L7-1-L-0542,Făt Frumos,1,S10
+L7,L,L7-1-L-0543,Făt Frumos,1,S10
+L7,L,L7-1-L-0544,Făt Frumos,1,S10
+L7,L,L7-1-L-0545,Făt Frumos,1,S10
+L7,L,L7-1-L-0546,Făt Frumos,1,S10
+L7,L,L7-1-L-0547,Făt Frumos,1,S10
+L7,L,L7-1-L-0548,Făt Frumos,1,S10
+L7,L,L7-1-L-0549,Făt Frumos,1,S10
+L7,L,L7-1-L-0550,Făt Frumos,1,S10
+L7,L,L7-1-L-0551,Făt Frumos,1,S10
+L7,L,L7-1-L-0552,Făt Frumos,1,S10
+L7,L,L7-1-L-0553,Făt Frumos,1,S10
+L7,L,L7-1-L-0554,Făt Frumos,1,S10
+L7,L,L7-1-L-0555,Făt Frumos,1,S10
+L7,L,L7-1-L-0556,Făt Frumos,1,S10
+L7,L,L7-1-L-0557,Făt Frumos,1,S10
+L7,L,L7-1-L-0558,Făt Frumos,1,S10
+L7,L,L7-1-L-0559,Făt Frumos,1,S10
+L7,L,L7-1-L-0560,Făt Frumos,1,S10
+L7,L,L7-1-L-0561,Făt Frumos,1,S10
+L7,L,L7-1-L-0562,Făt Frumos,1,S10
+L7,L,L7-1-L-0563,Făt Frumos,1,S10
+L7,L,L7-1-L-0564,Făt Frumos,1,S10
+L7,L,L7-1-L-0565,Făt Frumos,1,S10
+L7,L,L7-1-L-0566,Făt Frumos,1,S10
+L7,L,L7-1-L-0567,Făt Frumos,1,S10
+L7,L,L7-1-L-0568,Făt Frumos,1,S10
+L7,L,L7-1-L-0569,Făt Frumos,1,S10
+L7,L,L7-1-L-0570,Făt Frumos,1,S10
+L7,L,L7-1-L-0571,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0572,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0573,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0574,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0575,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0576,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0577,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0578,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0579,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0580,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0581,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0582,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0583,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0584,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0585,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0586,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0587,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0588,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0589,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0590,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0591,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0592,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0593,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0594,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0595,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0596,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0597,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0598,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0599,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0600,Făt Frumos,1,S10
+L7,SD,L7-1-SD-0601,Făt Frumos,1,S10
+L15,L,L15-0-L-0602,Făt Frumos,0,S11
+L15,L,L15-0-L-0603,Făt Frumos,0,S11
+L15,L,L15-0-L-0604,Făt Frumos,0,S11
+L15,L,L15-0-L-0605,Făt Frumos,0,S11
+L15,L,L15-0-L-0606,Făt Frumos,0,S11
+L15,L,L15-0-L-0607,Făt Frumos,0,S11
+L15,L,L15-0-L-0608,Făt Frumos,0,S11
+L15,L,L15-0-L-0609,Făt Frumos,0,S11
+L15,L,L15-0-L-0610,Făt Frumos,0,S11
+L15,L,L15-0-L-0611,Făt Frumos,0,S11
+L15,L,L15-0-L-0612,Făt Frumos,0,S11
+L15,L,L15-0-L-0613,Făt Frumos,0,S11
+L15,L,L15-0-L-0614,Făt Frumos,0,S11
+L15,L,L15-0-L-0615,Făt Frumos,0,S11
+L15,L,L15-0-L-0616,Făt Frumos,0,S11
+L15,L,L15-0-L-0617,Făt Frumos,0,S11
+L15,L,L15-0-L-0618,Făt Frumos,0,S11
+L15,L,L15-0-L-0619,Făt Frumos,0,S11
+L15,L,L15-0-L-0620,Făt Frumos,0,S11
+L15,L,L15-0-L-0621,Făt Frumos,0,S11
+L15,L,L15-0-L-0622,Făt Frumos,0,S11
+L15,L,L15-0-L-0623,Făt Frumos,0,S11
+L15,L,L15-0-L-0624,Făt Frumos,0,S11
+L15,L,L15-0-L-0625,Făt Frumos,0,S11
+L15,L,L15-0-L-0626,Piața U.T.A.,0,S11
+L15,L,L15-0-L-0627,Atrium 1,0,S11
+L15,L,L15-0-L-0628,Făt Frumos,0,S11
+L15,L,L15-0-L-0629,Făt Frumos,0,S11
+L15,L,L15-0-L-0630,Făt Frumos,0,S11
+L15,L,L15-0-L-0631,Făt Frumos,0,S11
+L15,L,L15-0-L-0632,Făt Frumos,0,S11
+L15,L,L15-0-L-0633,Făt Frumos,0,S11
+L15,L,L15-0-L-0634,Făt Frumos,0,S11
+L15,L,L15-0-L-0635,Făt Frumos,0,S11
+L15,L,L15-0-L-0636,Piața U.T.A.,0,S11
+L15,L,L15-0-L-0637,Piața U.T.A.,0,S11
+L15,L,L15-0-L-0638,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0639,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0640,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0641,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0642,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0643,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0644,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0645,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0646,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0647,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0648,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0649,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0650,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0651,Piața U.T.A.,0,S11
+L15,SD,L15-0-SD-0652,Atrium 1,0,S11
+L15,SD,L15-0-SD-0653,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0654,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0655,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0656,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0657,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0658,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0659,Piața U.T.A.,0,S11
+L15,SD,L15-0-SD-0660,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0661,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0662,Făt Frumos,0,S11
+L15,SD,L15-0-SD-0663,Făt Frumos,0,S11
+L15,L,L15-1-L-0664,Sere,1,S12
+L15,L,L15-1-L-0665,Sere,1,S12
+L15,L,L15-1-L-0666,Sere,1,S12
+L15,L,L15-1-L-0667,Sere,1,S12
+L15,L,L15-1-L-0668,Sere,1,S12
+L15,L,L15-1-L-0669,Sere,1,S12
+L15,L,L15-1-L-0670,Sere,1,S12
+L15,L,L15-1-L-0671,Sere,1,S12
+L15,L,L15-1-L-0672,Sere,1,S12
+L15,L,L15-1-L-0673,Sere,1,S12
+L15,L,L15-1-L-0674,Sere,1,S12
+L15,L,L15-1-L-0675,Sere,1,S12
+L15,L,L15-1-L-0676,Sere,1,S12
+L15,L,L15-1-L-0677,Sere,1,S12
+L15,L,L15-1-L-0678,Sere,1,S12
+L15,L,L15-1-L-0679,Sere,1,S12
+L15,L,L15-1-L-0680,Sere,1,S12
+L15,L,L15-1-L-0681,Sere,1,S12
+L15,L,L15-1-L-0682,Sere,1,S12
+L15,L,L15-1-L-0683,Sere,1,S12
+L15,L,L15-1-L-0684,Sere,1,S12
+L15,L,L15-1-L-0685,Sere,1,S12
+L15,L,L15-1-L-0686,Sere,1,S12
+L15,L,L15-1-L-0687,Sere,1,S12
+L15,L,L15-1-L-0688,Sere,1,S12
+L15,L,L15-1-L-0689,Sere,1,S12
+L15,L,L15-1-L-0690,Sere,1,S12
+L15,L,L15-1-L-0691,Sere,1,S12
+L15,L,L15-1-L-0692,Sere,1,S12
+L15,L,L15-1-L-0693,Sere,1,S12
+L15,L,L15-1-L-0694,Sere,1,S12
+L15,L,L15-1-L-0695,Sere,1,S12
+L15,L,L15-1-L-0696,Sere,1,S12
+L15,L,L15-1-L-0697,Sere,1,S12
+L15,L,L15-1-L-0698,Sere,1,S12
+L15,L,L15-1-L-0699,Sere,1,S12
+L15,SD,L15-1-SD-0700,Sere,1,S12
+L15,SD,L15-1-SD-0701,Sere,1,S12
+L15,SD,L15-1-SD-0702,Sere,1,S12
+L15,SD,L15-1-SD-0703,Sere,1,S12
+L15,SD,L15-1-SD-0704,Sere,1,S12
+L15,SD,L15-1-SD-0705,Sere,1,S12
+L15,SD,L15-1-SD-0706,Sere,1,S12
+L15,SD,L15-1-SD-0707,Sere,1,S12
+L15,SD,L15-1-SD-0708,Sere,1,S12
+L15,SD,L15-1-SD-0709,Sere,1,S12
+L15,SD,L15-1-SD-0710,Sere,1,S12
+L15,SD,L15-1-SD-0711,Sere,1,S12
+L15,SD,L15-1-SD-0712,Sere,1,S12
+L15,SD,L15-1-SD-0713,Sere,1,S12
+L15,SD,L15-1-SD-0714,Sere,1,S12
+L15,SD,L15-1-SD-0715,Sere,1,S12
+L15,SD,L15-1-SD-0716,Sere,1,S12
+L15,SD,L15-1-SD-0717,Sere,1,S12
+L15,SD,L15-1-SD-0718,Sere,1,S12
+L15,SD,L15-1-SD-0719,Sere,1,S12
+L15,SD,L15-1-SD-0720,Sere,1,S12
+L15,SD,L15-1-SD-0721,Sere,1,S12
+L15,SD,L15-1-SD-0722,Sere,1,S12
+L15,SD,L15-1-SD-0723,Sere,1,S12
+L15,SD,L15-1-SD-0724,Sere,1,S12
+L16,L,L16-0-L-0725,Piața Romană,0,S13
+L16,L,L16-0-L-0726,Piața Romană,0,S13
+L16,L,L16-0-L-0727,Piața Romană,0,S13
+L16,L,L16-0-L-0728,Piața Romană,0,S13
+L16,L,L16-0-L-0729,Piața Romană,0,S13
+L16,L,L16-0-L-0730,Piața Romană,0,S13
+L16,L,L16-0-L-0731,Piața Romană,0,S13
+L16,L,L16-0-L-0732,Piața Romană,0,S13
+L16,L,L16-0-L-0733,Piața Romană,0,S13
+L16,L,L16-0-L-0734,Piața Romană,0,S13
+L16,L,L16-0-L-0735,Piața Romană,0,S13
+L16,L,L16-0-L-0736,Piața Romană,0,S13
+L16,L,L16-0-L-0737,Piața Romană,0,S13
+L16,L,L16-0-L-0738,Piața Romană,0,S13
+L16,L,L16-0-L-0739,Piața Romană,0,S13
+L16,L,L16-0-L-0740,Piața Romană,0,S13
+L16,L,L16-0-L-0741,Piața Romană,0,S13
+L16,L,L16-0-L-0742,Piața Romană,0,S13
+L16,L,L16-0-L-0743,Piața Romană,0,S13
+L16,L,L16-0-L-0744,Piața Romană,0,S13
+L16,L,L16-0-L-0745,Piața Romană,0,S13
+L16,L,L16-0-L-0746,Piața Romană,0,S13
+L16,L,L16-0-L-0747,Piața Romană,0,S13
+L16,L,L16-0-L-0748,Piața Romană,0,S13
+L16,L,L16-0-L-0749,Piața Romană,0,S13
+L16,L,L16-0-L-0750,Piața Romană,0,S13
+L16,L,L16-0-L-0751,Piața Romană,0,S13
+L16,L,L16-0-L-0752,Piața Romană,0,S13
+L16,L,L16-0-L-0753,Piața Romană,0,S13
+L16,L,L16-0-L-0754,Piața Romană,0,S13
+L16,L,L16-0-L-0755,Piața Romană,0,S13
+L16,L,L16-0-L-0756,Piața Romană,0,S13
+L16,L,L16-0-L-0757,Piața Romană,0,S13
+L16,L,L16-0-L-0758,Piața Romană,0,S13
+L16,L,L16-0-L-0759,Piața Romană,0,S13
+L16,L,L16-0-L-0760,Piața Romană,0,S13
+L16,L,L16-0-L-0761,Piața Romană,0,S13
+L16,SD,L16-0-SD-0762,Piața Romană,0,S13
+L16,SD,L16-0-SD-0763,Piața Romană,0,S13
+L16,SD,L16-0-SD-0764,Piața Romană,0,S13
+L16,SD,L16-0-SD-0765,Piața Romană,0,S13
+L16,SD,L16-0-SD-0766,Piața Romană,0,S13
+L16,SD,L16-0-SD-0767,Piața Romană,0,S13
+L16,SD,L16-0-SD-0768,Piața Romană,0,S13
+L16,SD,L16-0-SD-0769,Piața Romană,0,S13
+L16,SD,L16-0-SD-0770,Piața Romană,0,S13
+L16,SD,L16-0-SD-0771,Piața Romană,0,S13
+L16,SD,L16-0-SD-0772,Piața Romană,0,S13
+L16,SD,L16-0-SD-0773,Piața Romană,0,S13
+L16,SD,L16-0-SD-0774,Piața Romană,0,S13
+L16,SD,L16-0-SD-0775,Piața Romană,0,S13
+L16,SD,L16-0-SD-0776,Piața Romană,0,S13
+L16,SD,L16-0-SD-0777,Piața Romană,0,S13
+L16,SD,L16-0-SD-0778,Piața Romană,0,S13
+L16,SD,L16-0-SD-0779,Piața Romană,0,S13
+L16,SD,L16-0-SD-0780,Piața Romană,0,S13
+L16,SD,L16-0-SD-0781,Piața Romană,0,S13
+L16,SD,L16-0-SD-0782,Piața Romană,0,S13
+L16,SD,L16-0-SD-0783,Piața Romană,0,S13
+L16,SD,L16-0-SD-0784,Piața Romană,0,S13
+L16,L,L16-1-L-0785,Sere,1,S14
+L16,L,L16-1-L-0786,Sere,1,S14
+L16,L,L16-1-L-0787,Sere,1,S14
+L16,L,L16-1-L-0788,Sere,1,S14
+L16,L,L16-1-L-0789,Sere,1,S14
+L16,L,L16-1-L-0790,Sere,1,S14
+L16,L,L16-1-L-0791,Sere,1,S14
+L16,L,L16-1-L-0792,Sere,1,S14
+L16,L,L16-1-L-0793,Sere,1,S14
+L16,L,L16-1-L-0794,Sere,1,S14
+L16,L,L16-1-L-0795,Sere,1,S14
+L16,L,L16-1-L-0796,Sere,1,S14
+L16,L,L16-1-L-0797,Sere,1,S14
+L16,L,L16-1-L-0798,Sere,1,S14
+L16,L,L16-1-L-0799,Sere,1,S14
+L16,L,L16-1-L-0800,Sere,1,S14
+L16,L,L16-1-L-0801,Sere,1,S14
+L16,L,L16-1-L-0802,Sere,1,S14
+L16,L,L16-1-L-0803,Sere,1,S14
+L16,L,L16-1-L-0804,Sere,1,S14
+L16,L,L16-1-L-0805,Sere,1,S14
+L16,L,L16-1-L-0806,Sere,1,S14
+L16,L,L16-1-L-0807,Sere,1,S14
+L16,L,L16-1-L-0808,Sere,1,S14
+L16,L,L16-1-L-0809,Sere,1,S14
+L16,L,L16-1-L-0810,Sere,1,S14
+L16,L,L16-1-L-0811,Sere,1,S14
+L16,L,L16-1-L-0812,Sere,1,S14
+L16,L,L16-1-L-0813,Sere,1,S14
+L16,L,L16-1-L-0814,Sere,1,S14
+L16,L,L16-1-L-0815,Sere,1,S14
+L16,L,L16-1-L-0816,Sere,1,S14
+L16,L,L16-1-L-0817,Sere,1,S14
+L16,L,L16-1-L-0818,Sere,1,S14
+L16,L,L16-1-L-0819,Sere,1,S14
+L16,L,L16-1-L-0820,Sere,1,S14
+L16,L,L16-1-L-0821,Sere,1,S14
+L16,SD,L16-1-SD-0822,Sere,1,S14
+L16,SD,L16-1-SD-0823,Sere,1,S14
+L16,SD,L16-1-SD-0824,Sere,1,S14
+L16,SD,L16-1-SD-0825,Sere,1,S14
+L16,SD,L16-1-SD-0826,Sere,1,S14
+L16,SD,L16-1-SD-0827,Sere,1,S14
+L16,SD,L16-1-SD-0828,Sere,1,S14
+L16,SD,L16-1-SD-0829,Sere,1,S14
+L16,SD,L16-1-SD-0830,Sere,1,S14
+L16,SD,L16-1-SD-0831,Sere,1,S14
+L16,SD,L16-1-SD-0832,Sere,1,S14
+L16,SD,L16-1-SD-0833,Sere,1,S14
+L16,SD,L16-1-SD-0834,Sere,1,S14
+L16,SD,L16-1-SD-0835,Sere,1,S14
+L16,SD,L16-1-SD-0836,Sere,1,S14
+L16,SD,L16-1-SD-0837,Sere,1,S14
+L16,SD,L16-1-SD-0838,Sere,1,S14
+L16,SD,L16-1-SD-0839,Sere,1,S14
+L16,SD,L16-1-SD-0840,Sere,1,S14
+L16,SD,L16-1-SD-0841,Sere,1,S14
+L16,SD,L16-1-SD-0842,Sere,1,S14
+L16,SD,L16-1-SD-0843,Sere,1,S14
+L18b,L,L18b-0-L-0844,Piața Romană,0,S15
+L18b,L,L18b-0-L-0845,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0846,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0847,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0848,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0849,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0850,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0851,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0852,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0853,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0854,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0855,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0856,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0857,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0858,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0859,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0860,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0861,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0862,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0863,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0864,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0865,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0866,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0867,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0868,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0869,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0870,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0871,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0872,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0873,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0874,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0875,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0876,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0877,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0878,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0879,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0880,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0881,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0882,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0883,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0884,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0885,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0886,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0887,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0888,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0889,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0890,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0891,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0892,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0893,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0894,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0895,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0896,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0897,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0898,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0899,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0900,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0901,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0902,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0903,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0904,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0905,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0906,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0907,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0908,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0909,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0910,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0911,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0912,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0913,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0914,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0915,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0916,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0917,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0918,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0919,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0920,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0921,Făt Frumos,0,S15
+L18b,L,L18b-0-L-0922,Cpt. Ignat,0,S15
+L18b,L,L18b-0-L-0923,Cpt. Ignat,0,S15
+L18b,L,L18b-0-L-0924,Cpt. Ignat,0,S15
+L18b,L,L18b-0-L-0925,Piața Romană,0,S15
+L18b,L,L18b-0-L-0926,Piața Romană,0,S15
+L18b,L,L18b-0-L-0927,Piața Romană,0,S15
+L18b,L,L18b-0-L-0928,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0929,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0930,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0931,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0932,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0933,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0934,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0935,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0936,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0937,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0938,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0939,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0940,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0941,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0942,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0943,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0944,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0945,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0946,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0947,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0948,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0949,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0950,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0951,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0952,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0953,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0954,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0955,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0956,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0957,Făt Frumos,0,S15
+L18b,SD,L18b-0-SD-0958,Făt Frumos,0,S15
+LVladimirescu,L,LVladimirescu-0-L-0959,DN 7_2,0,S16
+LVladimirescu,L,LVladimirescu-0-L-0960,DN 7_2,0,S16
+LVladimirescu,L,LVladimirescu-0-L-0961,DN 7_2,0,S16
+LVladimirescu,L,LVladimirescu-0-L-0962,DN 7_2,0,S16
+LVladimirescu,L,LVladimirescu-0-L-0963,DN 7_2,0,S16
+LVladimirescu,L,LVladimirescu-0-L-0964,DN 7_2,0,S16
+LVladimirescu,L,LVladimirescu-0-L-0965,DN 7_2,0,S16
+LVladimirescu,L,LVladimirescu-0-L-0966,DN 7_2,0,S16
+LVladimirescu,SD,LVladimirescu-0-SD-0967,DN 7_2,0,S16
+LVladimirescu,SD,LVladimirescu-0-SD-0968,DN 7_2,0,S16
+LVladimirescu,SD,LVladimirescu-0-SD-0969,DN 7_2,0,S16
+LVladimirescu,L,LVladimirescu-1-L-0970,Podgoria,1,S17
+LVladimirescu,L,LVladimirescu-1-L-0971,Podgoria,1,S17
+LVladimirescu,L,LVladimirescu-1-L-0972,Podgoria,1,S17
+LVladimirescu,L,LVladimirescu-1-L-0973,Podgoria,1,S17
+LVladimirescu,L,LVladimirescu-1-L-0974,Podgoria,1,S17
+LVladimirescu,L,LVladimirescu-1-L-0975,Podgoria,1,S17
+LVladimirescu,L,LVladimirescu-1-L-0976,Podgoria,1,S17
+LVladimirescu,L,LVladimirescu-1-L-0977,Podgoria,1,S17
+LVladimirescu,SD,LVladimirescu-1-SD-0978,Podgoria,1,S17
+LVladimirescu,SD,LVladimirescu-1-SD-0979,Podgoria,1,S17
+LVladimirescu,SD,LVladimirescu-1-SD-0980,Podgoria,1,S17
+LGhioroc,L,LGhioroc-0-L-0981,Podgoria,0,S19
+LGhioroc,L,LGhioroc-0-L-0982,Vladimirescu Via Carmina,0,S19
+LGhioroc,L,LGhioroc-0-L-0983,Podgoria,0,S19
+LGhioroc,L,LGhioroc-0-L-0984,Podgoria,0,S19
+LGhioroc,L,LGhioroc-0-L-0985,Podgoria,0,S19
+LGhioroc,L,LGhioroc-0-L-0986,Vladimirescu Via Carmina,0,S19
+LGhioroc,L,LGhioroc-0-L-0987,Podgoria,0,S19
+LGhioroc,L,LGhioroc-0-L-0988,Vladimirescu Via Carmina,0,S19
+LGhioroc,L,LGhioroc-0-L-0989,Podgoria,0,S19
+LGhioroc,L,LGhioroc-0-L-0990,Podgoria,0,S19
+LGhioroc,L,LGhioroc-0-L-0991,Podgoria,0,S19
+LGhioroc,L,LGhioroc-0-L-0992,Podgoria,0,S19
+LGhioroc,L,LGhioroc-0-L-0993,Podgoria,0,S19
+LGhioroc,L,LGhioroc-0-L-0994,Podgoria,0,S19
+LGhioroc,L,LGhioroc-0-L-0995,Podgoria,0,S19
+LGhioroc,L,LGhioroc-0-L-0996,Podgoria,0,S19
+LGhioroc,L,LGhioroc-0-L-0997,Podgoria,0,S19
+LGhioroc,SD,LGhioroc-0-SD-0998,Podgoria,0,S19
+LGhioroc,SD,LGhioroc-0-SD-0999,Podgoria,0,S19
+LGhioroc,SD,LGhioroc-0-SD-1000,Podgoria,0,S19
+LGhioroc,SD,LGhioroc-0-SD-1001,Vladimirescu Via Carmina,0,S19
+LGhioroc,SD,LGhioroc-0-SD-1002,Podgoria,0,S19
+LGhioroc,SD,LGhioroc-0-SD-1003,Podgoria,0,S19
+LGhioroc,SD,LGhioroc-0-SD-1004,Podgoria,0,S19
+LGhioroc,SD,LGhioroc-0-SD-1005,Podgoria,0,S19
+LGhioroc,SD,LGhioroc-0-SD-1006,Podgoria,0,S19
+LGhioroc,L,LGhioroc-1-L-1007,Ghioroc 1,1,S20
+LGhioroc,L,LGhioroc-1-L-1008,Ghioroc 1,1,S20
+LGhioroc,L,LGhioroc-1-L-1009,Ghioroc 1,1,S20
+LGhioroc,L,LGhioroc-1-L-1010,Ghioroc 1,1,S20
+LGhioroc,L,LGhioroc-1-L-1011,Ghioroc 1,1,S20
+LGhioroc,L,LGhioroc-1-L-1012,Ghioroc 1,1,S20
+LGhioroc,L,LGhioroc-1-L-1013,Ghioroc 1,1,S20
+LGhioroc,L,LGhioroc-1-L-1014,Ghioroc 1,1,S20
+LGhioroc,L,LGhioroc-1-L-1015,Ghioroc 1,1,S20
+LGhioroc,L,LGhioroc-1-L-1016,Ghioroc 1,1,S20
+LGhioroc,L,LGhioroc-1-L-1017,Ghioroc 1,1,S20
+LGhioroc,L,LGhioroc-1-L-1018,Ghioroc 1,1,S20
+LGhioroc,L,LGhioroc-1-L-1019,Ghioroc 1,1,S20
+LGhioroc,L,LGhioroc-1-L-1020,Ghioroc 1,1,S20
+LGhioroc,SD,LGhioroc-1-SD-1021,Ghioroc 1,1,S20
+LGhioroc,SD,LGhioroc-1-SD-1022,Ghioroc 1,1,S20
+LGhioroc,SD,LGhioroc-1-SD-1023,Ghioroc 1,1,S20
+LGhioroc,SD,LGhioroc-1-SD-1024,Ghioroc 1,1,S20
+LGhioroc,SD,LGhioroc-1-SD-1025,Ghioroc 1,1,S20
+LGhioroc,SD,LGhioroc-1-SD-1026,Ghioroc 1,1,S20
+LGhioroc,SD,LGhioroc-1-SD-1027,Ghioroc 1,1,S20
+LGhioroc,SD,LGhioroc-1-SD-1028,Ghioroc 1,1,S20
+L7A,L,L7A-0-L-1029,Podgoria,0,S22
+L7A,L,L7A-0-L-1030,Podgoria,0,S22
+L7A,L,L7A-0-L-1031,Podgoria,0,S22
+L7A,L,L7A-0-L-1032,Podgoria,0,S22
+L7A,L,L7A-0-L-1033,Podgoria,0,S22
+L7A,L,L7A-0-L-1034,Podgoria,0,S22
+L7A,L,L7A-0-L-1035,Podgoria,0,S22
+L7A,L,L7A-0-L-1036,Podgoria,0,S22
+L7A,L,L7A-0-L-1037,Podgoria,0,S22
+L7A,L,L7A-0-L-1038,Podgoria,0,S22
+L7A,L,L7A-0-L-1039,Podgoria,0,S22
+L7A,L,L7A-0-L-1040,Podgoria,0,S22
+L7A,L,L7A-0-L-1041,Podgoria,0,S22
+L7A,L,L7A-0-L-1042,Podgoria,0,S22
+L7A,L,L7A-0-L-1043,Podgoria,0,S22
+L7A,L,L7A-0-L-1044,Podgoria,0,S22
+L7A,L,L7A-0-L-1045,Podgoria,0,S22
+L7A,L,L7A-0-L-1046,Podgoria,0,S22
+L7A,L,L7A-0-L-1047,Podgoria,0,S22
+L7A,L,L7A-0-L-1048,Podgoria,0,S22
+L7A,L,L7A-0-L-1049,Podgoria,0,S22
+L7A,L,L7A-0-L-1050,Podgoria,0,S22
+L7A,L,L7A-0-L-1051,Podgoria,0,S22
+L7A,L,L7A-0-L-1052,Podgoria,0,S22
+L7A,L,L7A-0-L-1053,Podgoria,0,S22
+L7A,L,L7A-0-L-1054,Podgoria,0,S22
+L7A,L,L7A-0-L-1055,Podgoria,0,S22
+L7A,L,L7A-0-L-1056,Podgoria,0,S22
+L7A,L,L7A-0-L-1057,Podgoria,0,S22
+L7A,L,L7A-0-L-1058,Podgoria,0,S22
+L7A,L,L7A-0-L-1059,Podgoria,0,S22
+L7A,L,L7A-0-L-1060,Podgoria,0,S22
+L7A,L,L7A-0-L-1061,Podgoria,0,S22
+L7A,L,L7A-0-L-1062,Podgoria,0,S22
+L7A,L,L7A-0-L-1063,Podgoria,0,S22
+L7A,L,L7A-0-L-1064,Podgoria,0,S22
+L7A,L,L7A-0-L-1065,Podgoria,0,S22
+L7A,L,L7A-0-L-1066,Podgoria,0,S22
+L7A,L,L7A-0-L-1067,Podgoria,0,S22
+L7A,L,L7A-0-L-1068,Podgoria,0,S22
+L7A,L,L7A-0-L-1069,Podgoria,0,S22
+L7A,L,L7A-0-L-1070,Podgoria,0,S22
+L7A,L,L7A-0-L-1071,Podgoria,0,S22
+L7A,L,L7A-0-L-1072,Podgoria,0,S22
+L7A,L,L7A-0-L-1073,Podgoria,0,S22
+L7A,L,L7A-0-L-1074,Podgoria,0,S22
+L7A,L,L7A-0-L-1075,Podgoria,0,S22
+L7A,L,L7A-0-L-1076,Podgoria,0,S22
+L7A,L,L7A-0-L-1077,Podgoria,0,S22
+L7A,L,L7A-0-L-1078,Podgoria,0,S22
+L7A,L,L7A-0-L-1079,Podgoria,0,S22
+L7A,L,L7A-0-L-1080,Podgoria,0,S22
+L7A,L,L7A-0-L-1081,Podgoria,0,S22
+L7A,L,L7A-0-L-1082,Podgoria,0,S22
+L7A,L,L7A-0-L-1083,Podgoria,0,S22
+L7A,L,L7A-0-L-1084,Podgoria,0,S22
+L7A,L,L7A-0-L-1085,Podgoria,0,S22
+L7A,L,L7A-0-L-1086,Podgoria,0,S22
+L7A,L,L7A-0-L-1087,Podgoria,0,S22
+L7A,L,L7A-0-L-1088,Podgoria,0,S22
+L7A,L,L7A-0-L-1089,Podgoria,0,S22
+L7A,L,L7A-0-L-1090,Podgoria,0,S22
+L7A,L,L7A-0-L-1091,Podgoria,0,S22
+L7A,L,L7A-0-L-1092,Podgoria,0,S22
+L7A,L,L7A-0-L-1093,Podgoria,0,S22
+L7A,L,L7A-0-L-1094,Podgoria,0,S22
+L7A,L,L7A-0-L-1095,Podgoria,0,S22
+L7A,L,L7A-0-L-1096,Podgoria,0,S22
+L7A,L,L7A-0-L-1097,Podgoria,0,S22
+L7A,L,L7A-0-L-1098,Podgoria,0,S22
+L7A,L,L7A-0-L-1099,Podgoria,0,S22
+L7A,L,L7A-0-L-1100,Podgoria,0,S22
+L7A,L,L7A-0-L-1101,Podgoria,0,S22
+L7A,L,L7A-0-L-1102,Podgoria,0,S22
+L7A,L,L7A-0-L-1103,Podgoria,0,S22
+L7A,L,L7A-0-L-1104,Podgoria,0,S22
+L7A,L,L7A-0-L-1105,Podgoria,0,S22
+L7A,L,L7A-0-L-1106,Podgoria,0,S22
+L7A,L,L7A-0-L-1107,Podgoria,0,S22
+L7A,L,L7A-0-L-1108,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1109,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1110,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1111,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1112,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1113,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1114,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1115,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1116,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1117,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1118,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1119,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1120,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1121,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1122,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1123,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1124,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1125,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1126,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1127,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1128,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1129,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1130,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1131,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1132,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1133,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1134,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1135,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1136,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1137,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1138,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1139,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1140,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1141,Podgoria,0,S22
+L7A,SD,L7A-0-SD-1142,Podgoria,0,S22
+L18A,L,L18A-0-L-1143,Podgoria,0,S23
+L18A,L,L18A-0-L-1144,Podgoria,0,S23
+L18A,L,L18A-0-L-1145,Podgoria,0,S23
+L18A,L,L18A-0-L-1146,Podgoria,0,S23
+L18A,L,L18A-0-L-1147,Podgoria,0,S23
+L18A,L,L18A-0-L-1148,Podgoria,0,S23
+L18A,L,L18A-0-L-1149,Podgoria,0,S23
+L18A,L,L18A-0-L-1150,Podgoria,0,S23
+L18A,L,L18A-0-L-1151,Podgoria,0,S23
+L18A,L,L18A-0-L-1152,Podgoria,0,S23
+L18A,L,L18A-0-L-1153,Podgoria,0,S23
+L18A,L,L18A-0-L-1154,Podgoria,0,S23
+L18A,L,L18A-0-L-1155,Podgoria,0,S23
+L18A,L,L18A-0-L-1156,Podgoria,0,S23
+L18A,L,L18A-0-L-1157,Podgoria,0,S23
+L18A,L,L18A-0-L-1158,Podgoria,0,S23
+L18A,L,L18A-0-L-1159,Podgoria,0,S23
+L18A,L,L18A-0-L-1160,Podgoria,0,S23
+L18A,L,L18A-0-L-1161,Podgoria,0,S23
+L18A,L,L18A-0-L-1162,Podgoria,0,S23
+L18A,L,L18A-0-L-1163,Podgoria,0,S23
+L18A,L,L18A-0-L-1164,Podgoria,0,S23
+L18A,L,L18A-0-L-1165,Podgoria,0,S23
+L18A,L,L18A-0-L-1166,Podgoria,0,S23
+L18A,L,L18A-0-L-1167,Podgoria,0,S23
+L18A,L,L18A-0-L-1168,Podgoria,0,S23
+L18A,L,L18A-0-L-1169,Podgoria,0,S23
+L18A,L,L18A-0-L-1170,Podgoria,0,S23
+L18A,L,L18A-0-L-1171,Podgoria,0,S23
+L18A,L,L18A-0-L-1172,Podgoria,0,S23
+L18A,L,L18A-0-L-1173,Podgoria,0,S23
+L18A,L,L18A-0-L-1174,Podgoria,0,S23
+L18A,L,L18A-0-L-1175,Podgoria,0,S23
+L18A,L,L18A-0-L-1176,Podgoria,0,S23
+L18A,L,L18A-0-L-1177,Podgoria,0,S23
+L18A,L,L18A-0-L-1178,Podgoria,0,S23
+L18A,L,L18A-0-L-1179,Podgoria,0,S23
+L18A,L,L18A-0-L-1180,Podgoria,0,S23
+L18A,L,L18A-0-L-1181,Podgoria,0,S23
+L18A,L,L18A-0-L-1182,Podgoria,0,S23
+L18A,L,L18A-0-L-1183,Podgoria,0,S23
+L18A,L,L18A-0-L-1184,Podgoria,0,S23
+L18A,L,L18A-0-L-1185,Podgoria,0,S23
+L18A,L,L18A-0-L-1186,Podgoria,0,S23
+L18A,L,L18A-0-L-1187,Podgoria,0,S23
+L18A,L,L18A-0-L-1188,Podgoria,0,S23
+L18A,L,L18A-0-L-1189,Podgoria,0,S23
+L18A,L,L18A-0-L-1190,Podgoria,0,S23
+L18A,L,L18A-0-L-1191,Podgoria,0,S23
+L18A,L,L18A-0-L-1192,Podgoria,0,S23
+L18A,L,L18A-0-L-1193,Podgoria,0,S23
+L18A,L,L18A-0-L-1194,Podgoria,0,S23
+L18A,L,L18A-0-L-1195,Podgoria,0,S23
+L18A,L,L18A-0-L-1196,Podgoria,0,S23
+L18A,L,L18A-0-L-1197,Podgoria,0,S23
+L18A,L,L18A-0-L-1198,Podgoria,0,S23
+L18A,L,L18A-0-L-1199,Podgoria,0,S23
+L18A,L,L18A-0-L-1200,Podgoria,0,S23
+L18A,L,L18A-0-L-1201,Podgoria,0,S23
+L18A,L,L18A-0-L-1202,Podgoria,0,S23
+L18A,L,L18A-0-L-1203,Podgoria,0,S23
+L18A,L,L18A-0-L-1204,Podgoria,0,S23
+L18A,L,L18A-0-L-1205,Podgoria,0,S23
+L18A,L,L18A-0-L-1206,Podgoria,0,S23
+L18A,L,L18A-0-L-1207,Podgoria,0,S23
+L18A,L,L18A-0-L-1208,Podgoria,0,S23
+L18A,L,L18A-0-L-1209,Podgoria,0,S23
+L18A,L,L18A-0-L-1210,Podgoria,0,S23
+L18A,L,L18A-0-L-1211,Podgoria,0,S23
+L18A,L,L18A-0-L-1212,Podgoria,0,S23
+L18A,L,L18A-0-L-1213,Podgoria,0,S23
+L18A,L,L18A-0-L-1214,Podgoria,0,S23
+L18A,L,L18A-0-L-1215,Podgoria,0,S23
+L18A,L,L18A-0-L-1216,Podgoria,0,S23
+L18A,L,L18A-0-L-1217,Podgoria,0,S23
+L18A,L,L18A-0-L-1218,Podgoria,0,S23
+L18A,L,L18A-0-L-1219,Podgoria,0,S23
+L18A,L,L18A-0-L-1220,Podgoria,0,S23
+L18A,L,L18A-0-L-1221,Podgoria,0,S23
+L18A,L,L18A-0-L-1222,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1223,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1224,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1225,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1226,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1227,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1228,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1229,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1230,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1231,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1232,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1233,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1234,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1235,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1236,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1237,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1238,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1239,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1240,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1241,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1242,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1243,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1244,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1245,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1246,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1247,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1248,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1249,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1250,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1251,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1252,Podgoria,0,S23
+L18A,SD,L18A-0-SD-1253,Podgoria,0,S23
+L13,D,L13-0-D-1254,Horia,0,S24
+L13,D,L13-0-D-1255,Horia,0,S24
+L13,D,L13-0-D-1256,Horia,0,S24
+L13,D,L13-0-D-1257,Horia,0,S24
+L13,L,L13-0-L-1258,Horia,0,S24
+L13,L,L13-0-L-1259,Horia,0,S24
+L13,L,L13-0-L-1260,Horia,0,S24
+L13,L,L13-0-L-1261,Horia,0,S24
+L13,L,L13-0-L-1262,Horia,0,S24
+L13,L,L13-0-L-1263,Horia,0,S24
+L13,L,L13-0-L-1264,Horia,0,S24
+L13,L,L13-0-L-1265,Horia,0,S24
+L13,L,L13-0-L-1266,Horia,0,S24
+L13,L,L13-0-L-1267,Horia,0,S24
+L13,L,L13-0-L-1268,Horia,0,S24
+L13,L,L13-0-L-1269,Horia,0,S24
+L13,S,L13-0-S-1270,Horia,0,S24
+L13,S,L13-0-S-1271,Horia,0,S24
+L13,S,L13-0-S-1272,Horia,0,S24
+L13,S,L13-0-S-1273,Horia,0,S24
+L13,D,L13-1-D-1274,Podgoria,1,S25
+L13,D,L13-1-D-1275,Podgoria,1,S25
+L13,D,L13-1-D-1276,Podgoria,1,S25
+L13,D,L13-1-D-1277,Podgoria,1,S25
+L13,L,L13-1-L-1278,Podgoria,1,S25
+L13,L,L13-1-L-1279,Podgoria,1,S25
+L13,L,L13-1-L-1280,Podgoria,1,S25
+L13,L,L13-1-L-1281,Podgoria,1,S25
+L13,L,L13-1-L-1282,Podgoria,1,S25
+L13,L,L13-1-L-1283,Podgoria,1,S25
+L13,L,L13-1-L-1284,Podgoria,1,S25
+L13,L,L13-1-L-1285,Podgoria,1,S25
+L13,L,L13-1-L-1286,Podgoria,1,S25
+L13,L,L13-1-L-1287,Podgoria,1,S25
+L13,L,L13-1-L-1288,Podgoria,1,S25
+L13,L,L13-1-L-1289,Podgoria,1,S25
+L13,S,L13-1-S-1290,Podgoria,1,S25
+L13,S,L13-1-S-1291,Podgoria,1,S25
+L13,S,L13-1-S-1292,Podgoria,1,S25
+L13,S,L13-1-S-1293,Podgoria,1,S25
+L19,L,L19-0-L-1294,Vântului,0,S26
+L19,L,L19-0-L-1295,Vântului,0,S26
+L19,L,L19-0-L-1296,Vântului,0,S26
+L19,L,L19-0-L-1297,Vântului,0,S26
+L19,L,L19-0-L-1298,Vântului,0,S26
+L19,L,L19-0-L-1299,Vântului,0,S26
+L19,L,L19-0-L-1300,Vântului,0,S26
+L19,L,L19-0-L-1301,Vântului,0,S26
+L19,L,L19-0-L-1302,Vântului,0,S26
+L19,L,L19-0-L-1303,Vântului,0,S26
+L19,L,L19-0-L-1304,Vântului,0,S26
+L19,L,L19-0-L-1305,Vântului,0,S26
+L19,L,L19-0-L-1306,Vântului,0,S26
+L19,L,L19-0-L-1307,Vântului,0,S26
+L19,L,L19-0-L-1308,Vântului,0,S26
+L19,L,L19-0-L-1309,Vântului,0,S26
+L19,L,L19-0-L-1310,Vântului,0,S26
+L19,L,L19-0-L-1311,Vântului,0,S26
+L19,L,L19-0-L-1312,Vântului,0,S26
+L19,L,L19-0-L-1313,Vântului,0,S26
+L19,L,L19-0-L-1314,Vântului,0,S26
+L19,SD,L19-0-SD-1315,Vântului,0,S26
+L19,SD,L19-0-SD-1316,Vântului,0,S26
+L19,SD,L19-0-SD-1317,Vântului,0,S26
+L19,SD,L19-0-SD-1318,Vântului,0,S26
+L19,SD,L19-0-SD-1319,Vântului,0,S26
+L19,SD,L19-0-SD-1320,Vântului,0,S26
+L19,SD,L19-0-SD-1321,Vântului,0,S26
+L19,SD,L19-0-SD-1322,Vântului,0,S26
+L19,SD,L19-0-SD-1323,Vântului,0,S26
+L19,SD,L19-0-SD-1324,Vântului,0,S26
+L19,SD,L19-0-SD-1325,Vântului,0,S26
+L19,L,L19-1-L-1326,U.T.A.,1,S27
+L19,L,L19-1-L-1327,U.T.A.,1,S27
+L19,L,L19-1-L-1328,U.T.A.,1,S27
+L19,L,L19-1-L-1329,U.T.A.,1,S27
+L19,L,L19-1-L-1330,U.T.A.,1,S27
+L19,L,L19-1-L-1331,U.T.A.,1,S27
+L19,L,L19-1-L-1332,U.T.A.,1,S27
+L19,L,L19-1-L-1333,U.T.A.,1,S27
+L19,L,L19-1-L-1334,U.T.A.,1,S27
+L19,L,L19-1-L-1335,U.T.A.,1,S27
+L19,L,L19-1-L-1336,U.T.A.,1,S27
+L19,L,L19-1-L-1337,U.T.A.,1,S27
+L19,L,L19-1-L-1338,U.T.A.,1,S27
+L19,L,L19-1-L-1339,U.T.A.,1,S27
+L19,L,L19-1-L-1340,U.T.A.,1,S27
+L19,L,L19-1-L-1341,U.T.A.,1,S27
+L19,L,L19-1-L-1342,U.T.A.,1,S27
+L19,L,L19-1-L-1343,U.T.A.,1,S27
+L19,L,L19-1-L-1344,U.T.A.,1,S27
+L19,L,L19-1-L-1345,U.T.A.,1,S27
+L19,L,L19-1-L-1346,U.T.A.,1,S27
+L19,SD,L19-1-SD-1347,U.T.A.,1,S27
+L19,SD,L19-1-SD-1348,U.T.A.,1,S27
+L19,SD,L19-1-SD-1349,U.T.A.,1,S27
+L19,SD,L19-1-SD-1350,U.T.A.,1,S27
+L19,SD,L19-1-SD-1351,U.T.A.,1,S27
+L19,SD,L19-1-SD-1352,U.T.A.,1,S27
+L19,SD,L19-1-SD-1353,U.T.A.,1,S27
+L19,SD,L19-1-SD-1354,U.T.A.,1,S27
+L19,SD,L19-1-SD-1355,U.T.A.,1,S27
+L19,SD,L19-1-SD-1356,U.T.A.,1,S27
+L19,SD,L19-1-SD-1357,U.T.A.,1,S27
+L21,L,L21-0-L-1358,Faleză Sud,0,S28
+L21,L,L21-0-L-1359,Faleză Sud,0,S28
+L21,L,L21-0-L-1360,Faleză Sud,0,S28
+L21,L,L21-0-L-1361,Faleză Sud,0,S28
+L21,L,L21-0-L-1362,Faleză Sud,0,S28
+L21,L,L21-0-L-1363,Faleză Sud,0,S28
+L21,L,L21-0-L-1364,Faleză Sud,0,S28
+L21,L,L21-0-L-1365,Faleză Sud,0,S28
+L21,L,L21-0-L-1366,Faleză Sud,0,S28
+L21,L,L21-0-L-1367,Faleză Sud,0,S28
+L21,L,L21-0-L-1368,Faleză Sud,0,S28
+L21,L,L21-1-L-1369,Podgoria,1,S29
+L21,L,L21-1-L-1370,Podgoria,1,S29
+L21,L,L21-1-L-1371,Podgoria,1,S29
+L21,L,L21-1-L-1372,Podgoria,1,S29
+L21,L,L21-1-L-1373,Podgoria,1,S29
+L21,L,L21-1-L-1374,Podgoria,1,S29
+L21,L,L21-1-L-1375,Podgoria,1,S29
+L21,L,L21-1-L-1376,Podgoria,1,S29
+L21,L,L21-1-L-1377,Podgoria,1,S29
+L21,L,L21-1-L-1378,Podgoria,1,S29
+L21,L,L21-1-L-1379,Podgoria,1,S29
+L31,L,L31-0-L-1380,Podgoria,0,S30
+L31,L,L31-0-L-1381,Podgoria,0,S30
+L31,L,L31-0-L-1382,Podgoria,0,S30
+L31,L,L31-0-L-1383,Podgoria,0,S30
+L31,L,L31-0-L-1384,Podgoria,0,S30
+L31,L,L31-0-L-1385,Podgoria,0,S30
+L31,L,L31-0-L-1386,Podgoria,0,S30
+L31,L,L31-0-L-1387,Podgoria,0,S30
+L31,L,L31-0-L-1388,Podgoria,0,S30
+L31,L,L31-0-L-1389,Podgoria,0,S30
+L31,L,L31-0-L-1390,Podgoria,0,S30
+L31,L,L31-0-L-1391,Podgoria,0,S30
+L31,L,L31-0-L-1392,Podgoria,0,S30
+L31,L,L31-0-L-1393,Podgoria,0,S30
+L31,L,L31-0-L-1394,Podgoria,0,S30
+L31,L,L31-0-L-1395,Podgoria,0,S30
+L31,L,L31-0-L-1396,Podgoria,0,S30
+L31,L,L31-0-L-1397,Podgoria,0,S30
+L31,L,L31-0-L-1398,Podgoria,0,S30
+L31,SD,L31-0-SD-1399,Podgoria,0,S30
+L31,SD,L31-0-SD-1400,Podgoria,0,S30
+L31,SD,L31-0-SD-1401,Podgoria,0,S30
+L31,SD,L31-0-SD-1402,Podgoria,0,S30
+L31,L,L31-1-L-1403,Trenului,1,S31
+L31,L,L31-1-L-1404,Trenului,1,S31
+L31,L,L31-1-L-1405,Trenului,1,S31
+L31,L,L31-1-L-1406,Trenului,1,S31
+L31,L,L31-1-L-1407,Trenului,1,S31
+L31,L,L31-1-L-1408,Trenului,1,S31
+L31,L,L31-1-L-1409,Trenului,1,S31
+L31,L,L31-1-L-1410,Trenului,1,S31
+L31,L,L31-1-L-1411,Trenului,1,S31
+L31,L,L31-1-L-1412,Trenului,1,S31
+L31,L,L31-1-L-1413,Trenului,1,S31
+L31,L,L31-1-L-1414,Trenului,1,S31
+L31,L,L31-1-L-1415,Trenului,1,S31
+L31,L,L31-1-L-1416,Trenului,1,S31
+L31,L,L31-1-L-1417,Trenului,1,S31
+L31,L,L31-1-L-1418,Trenului,1,S31
+L31,L,L31-1-L-1419,Trenului,1,S31
+L31,L,L31-1-L-1420,Trenului,1,S31
+L31,L,L31-1-L-1421,Trenului,1,S31
+L31,SD,L31-1-SD-1422,Trenului,1,S31
+L31,SD,L31-1-SD-1423,Trenului,1,S31
+L31,SD,L31-1-SD-1424,Trenului,1,S31
+L31,SD,L31-1-SD-1425,Trenului,1,S31
+L39b,L,L39b-0-L-1426,Arțarului,0,S32
+L39b,L,L39b-0-L-1427,Arțarului,0,S32
+L39b,L,L39b-0-L-1428,Arțarului,0,S32
+L39b,L,L39b-0-L-1429,Arțarului,0,S32
+L39b,L,L39b-0-L-1430,Arțarului,0,S32
+L39b,L,L39b-0-L-1431,Arțarului,0,S32
+L39b,L,L39b-0-L-1432,Arțarului,0,S32
+L39b,L,L39b-0-L-1433,Arțarului,0,S32
+L39b,L,L39b-0-L-1434,Arțarului,0,S32
+L39b,L,L39b-0-L-1435,Arțarului,0,S32
+L39b,SD,L39b-0-SD-1436,Arțarului,0,S32
+L39b,SD,L39b-0-SD-1437,Arțarului,0,S32
+L39b,L,L39b-1-L-1438,Podgoria,1,S33
+L39b,L,L39b-1-L-1439,Podgoria,1,S33
+L39b,L,L39b-1-L-1440,Podgoria,1,S33
+L39b,L,L39b-1-L-1441,Podgoria,1,S33
+L39b,L,L39b-1-L-1442,Podgoria,1,S33
+L39b,L,L39b-1-L-1443,Podgoria,1,S33
+L39b,L,L39b-1-L-1444,Podgoria,1,S33
+L39b,L,L39b-1-L-1445,Podgoria,1,S33
+L39b,L,L39b-1-L-1446,Podgoria,1,S33
+L39b,L,L39b-1-L-1447,Podgoria,1,S33
+L39b,SD,L39b-1-SD-1448,Podgoria,1,S33
+L39b,SD,L39b-1-SD-1449,Podgoria,1,S33
+L41,L,L41-0-L-1450,Bujac,0,S34
+L41,L,L41-0-L-1451,Bujac,0,S34
+L41,L,L41-0-L-1452,Bujac,0,S34
+L41,L,L41-0-L-1453,Bujac,0,S34
+L41,L,L41-0-L-1454,Bujac,0,S34
+L41,L,L41-0-L-1455,Bujac,0,S34
+L41,L,L41-0-L-1456,Bujac,0,S34
+L41,L,L41-0-L-1457,Bujac,0,S34
+L41,L,L41-0-L-1458,Bujac,0,S34
+L41,L,L41-0-L-1459,Bujac,0,S34
+L41,L,L41-0-L-1460,Bujac,0,S34
+L41,L,L41-0-L-1461,Bujac,0,S34
+L41,L,L41-0-L-1462,Bujac,0,S34
+L41,L,L41-0-L-1463,Bujac,0,S34
+L41,L,L41-0-L-1464,Bujac,0,S34
+L41,L,L41-0-L-1465,Bujac,0,S34
+L41,L,L41-0-L-1466,Bujac,0,S34
+L41,SD,L41-0-SD-1467,Bujac,0,S34
+L41,SD,L41-0-SD-1468,Bujac,0,S34
+L41,SD,L41-0-SD-1469,Bujac,0,S34
+L41,SD,L41-0-SD-1470,Bujac,0,S34
+L41,SD,L41-0-SD-1471,Bujac,0,S34
+L41,SD,L41-0-SD-1472,Bujac,0,S34
+L41,SD,L41-0-SD-1473,Bujac,0,S34
+L41,SD,L41-0-SD-1474,Bujac,0,S34
+L41,SD,L41-0-SD-1475,Bujac,0,S34
+L41,SD,L41-0-SD-1476,Bujac,0,S34
+L41,SD,L41-0-SD-1477,Bujac,0,S34
+L41,SD,L41-0-SD-1478,Bujac,0,S34
+L41,SD,L41-0-SD-1479,Bujac,0,S34
+L41,SD,L41-0-SD-1480,Bujac,0,S34
+L41,SD,L41-0-SD-1481,Bujac,0,S34
+L41,L,L41-1-L-1482,Piața Romană,1,S35
+L41,L,L41-1-L-1483,Piața Romană,1,S35
+L41,L,L41-1-L-1484,Piața Romană,1,S35
+L41,L,L41-1-L-1485,Piața Romană,1,S35
+L41,L,L41-1-L-1486,Piața Romană,1,S35
+L41,L,L41-1-L-1487,Piața Romană,1,S35
+L41,L,L41-1-L-1488,Piața Romană,1,S35
+L41,L,L41-1-L-1489,Piața Romană,1,S35
+L41,L,L41-1-L-1490,Piața Romană,1,S35
+L41,L,L41-1-L-1491,Piața Romană,1,S35
+L41,L,L41-1-L-1492,Piața Romană,1,S35
+L41,L,L41-1-L-1493,Piața Romană,1,S35
+L41,L,L41-1-L-1494,Piața Romană,1,S35
+L41,L,L41-1-L-1495,Piața Romană,1,S35
+L41,L,L41-1-L-1496,Piața Romană,1,S35
+L41,L,L41-1-L-1497,Piața Romană,1,S35
+L41,L,L41-1-L-1498,Piața Romană,1,S35
+L41,SD,L41-1-SD-1499,Piața Romană,1,S35
+L41,SD,L41-1-SD-1500,Piața Romană,1,S35
+L41,SD,L41-1-SD-1501,Piața Romană,1,S35
+L41,SD,L41-1-SD-1502,Piața Romană,1,S35
+L41,SD,L41-1-SD-1503,Piața Romană,1,S35
+L41,SD,L41-1-SD-1504,Piața Romană,1,S35
+L41,SD,L41-1-SD-1505,Piața Romană,1,S35
+L41,SD,L41-1-SD-1506,Piața Romană,1,S35
+L41,SD,L41-1-SD-1507,Piața Romană,1,S35
+L41,SD,L41-1-SD-1508,Piața Romană,1,S35
+L41,SD,L41-1-SD-1509,Piața Romană,1,S35
+L41,SD,L41-1-SD-1510,Piața Romană,1,S35
+L46,D,L46-0-D-1511,Cartier San Paolo,0,S36
+L46,D,L46-0-D-1512,Cartier San Paolo,0,S36
+L46,L,L46-0-L-1513,Cartier San Paolo,0,S36
+L46,L,L46-0-L-1514,Cartier San Paolo,0,S36
+L46,L,L46-0-L-1515,Cartier San Paolo,0,S36
+L46,L,L46-0-L-1516,Cartier San Paolo,0,S36
+L46,L,L46-0-L-1517,Cartier San Paolo,0,S36
+L46,L,L46-0-L-1518,Cartier San Paolo,0,S36
+L46,L,L46-0-L-1519,Cartier San Paolo,0,S36
+L46,S,L46-0-S-1520,Cartier San Paolo,0,S36
+L46,S,L46-0-S-1521,Cartier San Paolo,0,S36
+L46,S,L46-0-S-1522,Cartier San Paolo,0,S36
+L46,S,L46-0-S-1523,Cartier San Paolo,0,S36
+L46,S,L46-0-S-1524,Cartier San Paolo,0,S36
+L46,D,L46-1-D-1525,Parcul Reconcilierii,1,S37
+L46,D,L46-1-D-1526,Parcul Reconcilierii,1,S37
+L46,L,L46-1-L-1527,Parcul Reconcilierii,1,S37
+L46,L,L46-1-L-1528,Parcul Reconcilierii,1,S37
+L46,L,L46-1-L-1529,Parcul Reconcilierii,1,S37
+L46,L,L46-1-L-1530,Parcul Reconcilierii,1,S37
+L46,L,L46-1-L-1531,Parcul Reconcilierii,1,S37
+L46,L,L46-1-L-1532,Parcul Reconcilierii,1,S37
+L46,L,L46-1-L-1533,Parcul Reconcilierii,1,S37
+L46,S,L46-1-S-1534,Parcul Reconcilierii,1,S37
+L46,S,L46-1-S-1535,Parcul Reconcilierii,1,S37
+L46,S,L46-1-S-1536,Parcul Reconcilierii,1,S37
+L46,S,L46-1-S-1537,Parcul Reconcilierii,1,S37
+L46,S,L46-1-S-1538,Parcul Reconcilierii,1,S37
+L48,L,L48-0-L-1539,Real,0,S38
+L48,L,L48-0-L-1540,Real,0,S38
+L48,L,L48-0-L-1541,Real,0,S38
+L48,L,L48-0-L-1542,Real,0,S38
+L48,L,L48-0-L-1543,Real,0,S38
+L48,L,L48-0-L-1544,Real,0,S38
+L48,L,L48-0-L-1545,Real,0,S38
+L48,L,L48-0-L-1546,Real,0,S38
+L48,L,L48-0-L-1547,Real,0,S38
+L48,L,L48-0-L-1548,Real,0,S38
+L48,L,L48-0-L-1549,Real,0,S38
+L48,SD,L48-0-SD-1550,Real,0,S38
+L48,SD,L48-0-SD-1551,Real,0,S38
+L48,SD,L48-0-SD-1552,Real,0,S38
+L48,SD,L48-0-SD-1553,Real,0,S38
+L48,SD,L48-0-SD-1554,Real,0,S38
+L48,SD,L48-0-SD-1555,Real,0,S38
+L48,SD,L48-0-SD-1556,Real,0,S38
+L48,SD,L48-0-SD-1557,Real,0,S38
+L48,SD,L48-0-SD-1558,Real,0,S38
+L48,SD,L48-0-SD-1559,Real,0,S38
+L48,L,L48-1-L-1560,Billa,1,S39
+L48,L,L48-1-L-1561,Billa,1,S39
+L48,L,L48-1-L-1562,Billa,1,S39
+L48,L,L48-1-L-1563,Billa,1,S39
+L48,L,L48-1-L-1564,Billa,1,S39
+L48,L,L48-1-L-1565,Billa,1,S39
+L48,L,L48-1-L-1566,Billa,1,S39
+L48,L,L48-1-L-1567,Billa,1,S39
+L48,L,L48-1-L-1568,Billa,1,S39
+L48,L,L48-1-L-1569,Billa,1,S39
+L48,L,L48-1-L-1570,Billa,1,S39
+L48,SD,L48-1-SD-1571,Billa,1,S39
+L48,SD,L48-1-SD-1572,Billa,1,S39
+L48,SD,L48-1-SD-1573,Billa,1,S39
+L48,SD,L48-1-SD-1574,Billa,1,S39
+L48,SD,L48-1-SD-1575,Billa,1,S39
+L48,SD,L48-1-SD-1576,Billa,1,S39
+L48,SD,L48-1-SD-1577,Billa,1,S39
+L48,SD,L48-1-SD-1578,Billa,1,S39
+L48,SD,L48-1-SD-1579,Billa,1,S39
+L48,SD,L48-1-SD-1580,Billa,1,S39
+L49,L,L49-0-L-1581,Caraiman,0,S40
+L49,L,L49-0-L-1582,Caraiman,0,S40
+L49,L,L49-0-L-1583,Caraiman,0,S40
+L49,L,L49-0-L-1584,Caraiman,0,S40
+L49,L,L49-0-L-1585,Caraiman,0,S40
+L49,L,L49-0-L-1586,Caraiman,0,S40
+L49,L,L49-0-L-1587,Caraiman,0,S40
+L49,L,L49-0-L-1588,Caraiman,0,S40
+L49,L,L49-0-L-1589,Caraiman,0,S40
+L49,L,L49-0-L-1590,Caraiman,0,S40
+L49,L,L49-0-L-1591,Caraiman,0,S40
+L49,L,L49-0-L-1592,Caraiman,0,S40
+L49,L,L49-0-L-1593,Caraiman,0,S40
+L49,L,L49-0-L-1594,Caraiman,0,S40
+L49,L,L49-0-L-1595,Caraiman,0,S40
+L49,L,L49-1-L-1596,Caraiman,1,S41
+L49,L,L49-1-L-1597,Caraiman,1,S41
+L49,L,L49-1-L-1598,Caraiman,1,S41
+L49,L,L49-1-L-1599,Caraiman,1,S41
+L49,L,L49-1-L-1600,Caraiman,1,S41
+L49,L,L49-1-L-1601,Caraiman,1,S41
+L49,L,L49-1-L-1602,Caraiman,1,S41
+L49,L,L49-1-L-1603,Caraiman,1,S41
+L49,L,L49-1-L-1604,Caraiman,1,S41
+L49,L,L49-1-L-1605,Caraiman,1,S41
+L49,L,L49-1-L-1606,Caraiman,1,S41
+L49,L,L49-1-L-1607,Caraiman,1,S41
+L49,L,L49-1-L-1608,Caraiman,1,S41
+L49,L,L49-1-L-1609,Caraiman,1,S41
+L49,L,L49-1-L-1610,Caraiman,1,S41
+L49b,L,L49b-0-L-1611,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1612,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1613,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1614,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1615,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1616,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1617,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1618,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1619,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1620,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1621,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1622,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1623,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1624,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1625,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1626,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1627,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1628,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1629,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1630,Gara Aradul Nou,0,S42
+L49b,L,L49b-0-L-1631,Gara Aradul Nou,0,S42
+L49b,SD,L49b-0-SD-1632,Gara Aradul Nou,0,S42
+L49b,SD,L49b-0-SD-1633,Gara Aradul Nou,0,S42
+L49b,SD,L49b-0-SD-1634,Gara Aradul Nou,0,S42
+L49b,SD,L49b-0-SD-1635,Gara Aradul Nou,0,S42
+L49b,SD,L49b-0-SD-1636,Gara Aradul Nou,0,S42
+L49b,SD,L49b-0-SD-1637,Gara Aradul Nou,0,S42
+L49b,SD,L49b-0-SD-1638,Gara Aradul Nou,0,S42
+L49b,SD,L49b-0-SD-1639,Gara Aradul Nou,0,S42
+L49b,SD,L49b-0-SD-1640,Gara Aradul Nou,0,S42
+L49b,SD,L49b-0-SD-1641,Gara Aradul Nou,0,S42
+L49b,SD,L49b-0-SD-1642,Gara Aradul Nou,0,S42
+L49b,SD,L49b-0-SD-1643,Gara Aradul Nou,0,S42
+L49b,SD,L49b-0-SD-1644,Gara Aradul Nou,0,S42
+L49b,SD,L49b-0-SD-1645,Gara Aradul Nou,0,S42
+L49b,L,L49b-1-L-1646,U.T.A.,1,S43
+L49b,L,L49b-1-L-1647,U.T.A.,1,S43
+L49b,L,L49b-1-L-1648,U.T.A.,1,S43
+L49b,L,L49b-1-L-1649,U.T.A.,1,S43
+L49b,L,L49b-1-L-1650,U.T.A.,1,S43
+L49b,L,L49b-1-L-1651,U.T.A.,1,S43
+L49b,L,L49b-1-L-1652,U.T.A.,1,S43
+L49b,L,L49b-1-L-1653,U.T.A.,1,S43
+L49b,L,L49b-1-L-1654,U.T.A.,1,S43
+L49b,L,L49b-1-L-1655,U.T.A.,1,S43
+L49b,L,L49b-1-L-1656,U.T.A.,1,S43
+L49b,L,L49b-1-L-1657,U.T.A.,1,S43
+L49b,L,L49b-1-L-1658,U.T.A.,1,S43
+L49b,L,L49b-1-L-1659,U.T.A.,1,S43
+L49b,L,L49b-1-L-1660,U.T.A.,1,S43
+L49b,L,L49b-1-L-1661,U.T.A.,1,S43
+L49b,L,L49b-1-L-1662,U.T.A.,1,S43
+L49b,L,L49b-1-L-1663,U.T.A.,1,S43
+L49b,L,L49b-1-L-1664,U.T.A.,1,S43
+L49b,L,L49b-1-L-1665,U.T.A.,1,S43
+L49b,L,L49b-1-L-1666,U.T.A.,1,S43
+L49b,SD,L49b-1-SD-1667,U.T.A.,1,S43
+L49b,SD,L49b-1-SD-1668,U.T.A.,1,S43
+L49b,SD,L49b-1-SD-1669,U.T.A.,1,S43
+L49b,SD,L49b-1-SD-1670,U.T.A.,1,S43
+L49b,SD,L49b-1-SD-1671,U.T.A.,1,S43
+L49b,SD,L49b-1-SD-1672,U.T.A.,1,S43
+L49b,SD,L49b-1-SD-1673,U.T.A.,1,S43
+L49b,SD,L49b-1-SD-1674,U.T.A.,1,S43
+L49b,SD,L49b-1-SD-1675,U.T.A.,1,S43
+L49b,SD,L49b-1-SD-1676,U.T.A.,1,S43
+L49b,SD,L49b-1-SD-1677,U.T.A.,1,S43
+L49b,SD,L49b-1-SD-1678,U.T.A.,1,S43
+L49b,SD,L49b-1-SD-1679,U.T.A.,1,S43
+L49b,SD,L49b-1-SD-1680,U.T.A.,1,S43
+L52,L,L52-0-L-1681,Grădina Poștei,0,S44
+L52,L,L52-0-L-1682,Grădina Poștei,0,S44
+L52,L,L52-0-L-1683,Grădina Poștei,0,S44
+L52,L,L52-0-L-1684,Grădina Poștei,0,S44
+L52,L,L52-0-L-1685,Grădina Poștei,0,S44
+L52,L,L52-0-L-1686,Grădina Poștei,0,S44
+L52,L,L52-0-L-1687,Grădina Poștei,0,S44
+L52,L,L52-0-L-1688,Grădina Poștei,0,S44
+L52,L,L52-0-L-1689,Grădina Poștei,0,S44
+L52,L,L52-0-L-1690,Grădina Poștei,0,S44
+L52,L,L52-0-L-1691,Grădina Poștei,0,S44
+L52,L,L52-0-L-1692,Grădina Poștei,0,S44
+L52,L,L52-0-L-1693,Grădina Poștei,0,S44
+L52,L,L52-0-L-1694,Grădina Poștei,0,S44
+L52,L,L52-0-L-1695,Grădina Poștei,0,S44
+L52,L,L52-0-L-1696,Grădina Poștei,0,S44
+L52,L,L52-1-L-1697,Podgoria,1,S45
+L52,L,L52-1-L-1698,Podgoria,1,S45
+L52,L,L52-1-L-1699,Podgoria,1,S45
+L52,L,L52-1-L-1700,Podgoria,1,S45
+L52,L,L52-1-L-1701,Podgoria,1,S45
+L52,L,L52-1-L-1702,Podgoria,1,S45
+L52,L,L52-1-L-1703,Podgoria,1,S45
+L52,L,L52-1-L-1704,Podgoria,1,S45
+L52,L,L52-1-L-1705,Podgoria,1,S45
+L52,L,L52-1-L-1706,Podgoria,1,S45
+L52,L,L52-1-L-1707,Podgoria,1,S45
+L52,L,L52-1-L-1708,Podgoria,1,S45
+L52,L,L52-1-L-1709,Podgoria,1,S45
+L52,L,L52-1-L-1710,Podgoria,1,S45
+L52,L,L52-1-L-1711,Podgoria,1,S45
+L52,L,L52-1-L-1712,Podgoria,1,S45
+L54,L,L54-0-L-1713,IAS Mureșul,0,S46
+L54,L,L54-0-L-1714,IAS Mureșul,0,S46
+L54,L,L54-1-L-1715,Podgoria,1,S47
+L54,L,L54-1-L-1716,Podgoria,1,S47
+L60,L,L60-0-L-1717,Concordiei,0,S48
+L60,L,L60-0-L-1718,Concordiei,0,S48
+L60,L,L60-0-L-1719,Concordiei,0,S48
+L60,L,L60-1-L-1720,Piața Romană,1,S49
+L60,L,L60-1-L-1721,Piața Romană,1,S49
+L60,L,L60-1-L-1722,Piața Romană,1,S49

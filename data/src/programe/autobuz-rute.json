@@ -1,0 +1,37 @@
+[
+    {"name":"Linia 13", "path": "013`", "label": "ARAD - HORIA"},
+    {"name":"Linia 19", "path": "0019", "label": "PIATA UTA-VANTULUI"},
+    {"name":"Linia 21", "path": "0021", "label":"PODGORIA – FALEZA SUD"},
+    {"name":"Linia 26", "path": "26ne_Linia 26_ Neudorf _ Arad _ 8.09.2025", "label":"ARAD - ALUNIȘ - NEUDORF"},
+    {"name":"Linia 27", "path": "0027", "label":"TISA NOUĂ - FÂNTÂNELE - ARAD"},
+    {"name": "Linia 31", "path":"0031", "label":"PODGORIA - TRENULUI"},
+    {"name":"Linia 35", "path": "0035", "label":"LIVADA - ARAD"},
+    {"name": "Linia 39","path":"0039", "label":"PODGORIA - ȘOFRONEA"},
+    {"name": "Linia 39b","path":"039b", "label":"PODGORIA - ARTARULUI"},
+    {"name": "Linia 41", "path":"0041", "label":"PIATA ROMANA - BUJAC"},
+    {"name": "Linia 46", "path":"0046", "label":"PARCUL RECONCILIERII – CARTIER SAN PAOLO"},
+    {"name": "Linia 48", "path":"0048", "label":"BILLA – ANL – SELGROS – REAL"},
+    {"name": "Linia 49", "path":"0049", "label":"POSADA - CARAIMANULUI"},  
+    {"name": "Linia 49B", "path": "049b", "label": "PIATA UTA - ECONOMU -GARA ARADUL NOU"},
+    
+    {"name": "Linia 52", "path":"0052", "label":"PADGORIA - GELU - PODGORIA"},  
+    
+    {"name": "Linia 54", "path":"0054", "label":"PODGORIA - IAS MURESUL"},
+    {"name": "Linia 60", "path":"0060", "label":"PIAȚA ROMANĂ - CONCORDIEI"},
+    {"name": "Linia 201s", "path":"201s", "label":"Șomoșcheș -Șepreuș - Arad"},
+    {"name": "Linia 202", "path":"0202", "label":"Berechiu - Arad"},    
+    {"name": "Linia 204", "path":"0204", "label":"Fiscut - Arad"},
+    {"name": "Linia 209", "path":"0209", "label":"Arad - Mailat"},    
+    {"name": "Linia 212", "path":"0212", "label":"Zărand - Cintei - Arad"},
+    {"name": "Linia 213", "path":"0213", "label":"Banu Mărăcine - Pecica Moară"},
+    {"name": "Linia 214", "path":"0214", "label":"Arad - Peregu Mare"},
+    {"name": "Linia 215", "path":"0215", "label":"Arad - Bodrogu Nou"},
+    {"name": "Linia 216", "path":"0216", "label":"Arad - Satu Mare"},
+    {"name": "Linia 221", "path":"0221_Turnu _ Arad _ 8.09.2025", "label":"Pecica - Turnu - Arad"},
+    {"name": "Linia 231", "path":"0231", "label":"Șimand - Arad"},
+    {"name": "Linia 234", "path":"0234", "label":"Arad - Sântana"},
+    {"name": "Linia 236", "path":"0236_Nadlac_Seitin_Semlac_Pecica_Arad_19.09.2025", "label":"Șeitin-Semlac-Pecica-Arad"},
+    {"name": "Linia 237", "path":"0237_Semlac_Seitin_Nadlac_19.09.2025", "label":"Semlac-Șeitin-Nădlac"},
+    {"name": "COVARAD", "path":"cova", "label":"Covăsânț-Arad"}
+
+]

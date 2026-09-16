@@ -1,0 +1,19 @@
+{
+  "name": "arad-bus-map",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "description": "Interactive map of Arad public transport (CTP Arad trams and buses) — GTFS written from the city's own spreadsheets and the operator's timetables + OSM + HMM map matching",
+  "scripts": {
+    "download": "bash pipeline/download.sh",
+    "scrape": "node pipeline/ctp-scrape.mjs",
+    "feed": "node pipeline/arad-feed.mjs",
+    "build": "node --max-old-space-size=4096 pipeline/build.mjs --all --tram all && node pipeline/timetables.mjs",
+    "lines": "node --max-old-space-size=4096 pipeline/lines.mjs",
+    "report": "node pipeline/report-gaps.mjs",
+    "audit": "node --max-old-space-size=4096 pipeline/audit.mjs",
+    "serve": "node pipeline/serve.mjs 8196",
+    "timetables": "node pipeline/timetables.mjs",
+    "check": "node pipeline/shape-check.mjs"
+  }
+}

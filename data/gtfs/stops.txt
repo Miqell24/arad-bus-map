@@ -1,0 +1,281 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon
+B001,B001,Abatorului,"str. Abatorului, nr.70",46.182140,21.297250
+B002,B002,Abatorului,"str. Abatorului, nr.78",46.181910,21.296550
+B004,B004,ANL,"Cartier ANL, F.N.",46.167880,21.366570
+B005,B005,Armoniei,"str. Ogorului, nr.44",46.141320,21.312130
+B006,B006,Armoniei,"str. Ogorului, nr.55",46.141110,21.312720
+B007,B007,Arțarului,"str. 6 Vânători, nr.114",46.212800,21.320570
+B008,B008,Arțarului,str. 6 Vânători vis-a-vis nr.112,46.212700,21.320440
+B009,B009,Astra Sector II,"str. Petru Rareș, nr.22",46.191260,21.330260
+B010,B010,Astra Sector II,"str. Petru Rareș, nr.3",46.191020,21.329870
+B013,B013,Atrium,"Calea 6 Vânători, FN",46.191620,21.319570
+B014,B014,Atrium,"Calea 6 Vânători, FN",46.191970,21.319620
+B016,B016,Autoservice,"str. Calea Timișorii, nr.133",46.144770,21.321590
+B017,B017,Autoservice,"str. Calea Timișorii, nr.124",46.145540,21.321160
+B020,B020,Anton Pann,str. Anton Pann colț cu Dunării,46.213970,21.275310
+B021,B021,Anton Pann,str. Anton Pann colț cu Dunării,46.214130,21.275320
+B022,B022,Bagdazar,"str. Ogorului, nr.41",46.141050,21.315450
+B023,B023,Bagdazar,"str. Ogorului, nr.40",46.141170,21.314810
+B024,B024,Banu Mărăcine,"str. Banu Mărăcine, bl.I",46.184940,21.316110
+B025,B025,Banu Mărăcine,"str. Banu Mărăcine, FN",46.185370,21.316950
+B026,B026,Bela Bartók,"str. I.Rațiu, nr. 2",46.179680,21.308290
+B027,B027,Bela Bartók,"str. I.Rațiu, nr. 3",46.179750,21.306470
+B028,B028,Billa,"B-dul N.Titulescu, bl.340",46.174180,21.348090
+B029,B029,Billa,B-dul N.Titulescu colț cu Str. Voinicilor,46.174380,21.348450
+B030,B030,Brâncoveanu,"str. C-tin Brâncuși, nr.2",46.188610,21.298160
+B031,B031,Brâncoveanu,"str. C-tin Brâncoveanu, nr.73",46.190090,21.297920
+B033,B033,Brâncuși,Stadionul SEGA,46.189270,21.292200
+B034,B034,Brâncuși,"str. Baba Novac, nr.19",46.189140,21.291980
+B035,B035,Budai Deleanu,"str. Petru Rareș, nr.60",46.194429,21.335398
+B036,B036,Bujac,"str. Trotușului, nr.17",46.196690,21.276030
+B037,B037,Bumbacului,"str. Poetului, Cimitir Eternitatea",46.194710,21.307350
+B038,B038,Bumbacului,"str. Poetului, nr.11",46.195330,21.306310
+B039,B039,Călărașilor,"str. Poetului, nr.4",46.198800,21.301190
+B040,B040,Călărașilor,"str. Poetului, nr.63",46.198760,21.300970
+B041,B041,Caraiman,"Calea Timișorii, nr.45",46.153653,21.322004
+B042,B042,Caraiman,"Calea Timișorii, nr.38",46.154023,21.321740
+B043,B043,Cartier San Paolo,DC 108,46.252610,21.261700
+B044,B044,Călțunaș,str. Dunării colț cu Ștefan Tenețchi,46.211300,21.277070
+B045,B045,Călțunaș,str. Dunării colț cu Ștefan Tenețchi,46.210930,21.277390
+B046,B046,Cedrului,Calea 6 Vânători vis-a-vis nr.50,46.207360,21.320390
+B047,B047,Cedrului,"Calea 6 Vânători, nr.50",46.207230,21.320600
+B050,B050,Cibinului,"str. A. Guttenbrunn, nr.35",46.154690,21.326520
+B051,B051,Clopotului,"str. N. Lenau, nr.5",46.146010,21.339180
+B052,B052,Clopotului,str. N. Lenau vis-a-vis de nr.3,46.146250,21.339200
+B053,B053,Confecții,"str. L. Rebreanu, nr.80",46.180070,21.297040
+B054,B054,Confecții,"str. L. Rebreanu, nr.87",46.180100,21.297440
+B055,B055,Concordiei,str. Nouă colț cu Concordiei,46.204810,21.269460
+B056,B056,Cpt. Ignat,"str. Pădurii, nr.97",46.173610,21.293610
+B057,B057,Cpt. Ignat,"str. Pădurii, nr.93",46.174810,21.294260
+B060,B060,Eminescu,"str. M.Eminescu, nr.91",46.171990,21.304730
+B061,B061,Eminescu,"str. Andrei Șaguna, nr.132",46.171450,21.304290
+B064,B064,Faleză Sud,"str. Barbu Lăutaru, bl.32-33, sc.A, sc.B",46.163720,21.290630
+B065,B065,Faurilor,str. Anton Pann colț cu Faurilor,46.212800,21.271120
+B066,B066,Faurilor,str. Anton Pann colț cu Faurilor,46.212950,21.271070
+B067,B067,Felix,"str. Felix colț cu Nucet, bl.701",46.169020,21.351870
+B068,B068,Feroneria,"Calea 6 Vânători, bl.V9, sc.A",46.198960,21.320220
+B069,B069,Feroneria,Calea 6 Vânători vis-a-vis Bl. V9,46.199270,21.320160
+B070,B070,Flacăra,"str. Flacăra, nr.16",46.141960,21.338380
+B071,B071,Flacăra,"str. Flacăra, nr.16",46.141980,21.338560
+B074,B074,Frăției,"str. Frăției, nr. 33, bl. 722",46.166680,21.352990
+B075,B075,Gara Aradul Nou,"str. Stefan cel Mare, nr. 65",46.145320,21.334380
+B076,B076,Gara Aradul Nou,"str. Ștefan cel Mare, nr. 65",46.145320,21.334550
+B077,B077,Gara CFR,"Bulevardul Revoluției, nr.9",46.187250,21.325820
+B079,B079,Gorunului,"str. Gorunului, nr.7",46.196010,21.333120
+B080,B080,Gorunului,"str. Gorunului, nr.8",46.196090,21.333100
+B081,B081,IAS Mureșul,IAS MUREȘ,46.172560,21.238000
+B082,B082,Independenței,"str. Independenței, nr.2",46.192650,21.288000
+B083,B083,Independenței,"str. Independenței, nr.4",46.192890,21.286750
+B084,B084,Infanteriei,"str. Cetății, nr.13",46.161180,21.329930
+B085,B085,Infanteriei,"str. Cetății, nr.13",46.161610,21.329990
+B086,B086,Ion Rațiu,"str. I.Rațiu, nr.50",46.180840,21.303770
+B087,B087,Ion Rațiu,"str. I.Rațiu, nr.35",46.180740,21.304160
+B088,B088,Izvor,str. Fagului colț cu Izvor,46.213210,21.282830
+B089,B089,Izvor,str. Fagului colț cu Izvor,46.213070,21.282810
+B090,B090,Lacului,"str. Corneliu Coposu, nr.2",46.183240,21.322720
+B091,B091,Liviu Rebreanu,"str. Liviu Rebreanu, nr.34",46.178540,21.303400
+B092,B092,Liviu Rebreanu,"str. Liviu Rebreanu, nr.27",46.178540,21.304270
+B093,B093,Maranata,"B-dul N.Titulescu, bl.302, sc. C",46.178690,21.341430
+B094,B094,Maranata,"B-dul N.Titulescu, bl.301",46.179040,21.341020
+B095,B095,Mănăstire Gai,str. Ion Creangă colț cu Dunării,46.216760,21.274290
+B096,B096,Mănăstire Gai,str. Ion Creangă colț cu Dunării,46.216740,21.274490
+B097,B097,Miorița,"Calea Radnei, nr.144-146",46.179650,21.346630
+B098,B098,Miorița,"Calea Radnei, nr.121",46.179580,21.347790
+B099,B099,Ogorului,"str. Ogorului, nr.6",46.141110,21.320070
+B100,B100,Ogorului,"str. Ogorului, nr.9",46.141000,21.319820
+B101,B101,Parcul Reconcilierii,"str. Vârful cu Dor, nr.11",46.171090,21.308290
+B102,B102,Piața Bujac,"str. Independentei, nr.24/4",46.192970,21.282540
+B103,B103,Piața Bujac,"str. Independenței, nr. 24/5",46.192930,21.282020
+B106,B106,Piața Spitalului,"str. Banu Mărăcine, FN",46.182610,21.311660
+B107,B107,Piața Spitalului,"P-ța Spitalului, bl.5, sc.C",46.181190,21.309330
+B108,B108,Piața Spitalului,"Calea Victoriei, bl.1A",46.183320,21.309820
+B109,B109,Podgoria,"Calea Iuliu Maniu, nr.2-10",46.182360,21.324530
+B110,B110,Podgoria,"B-dul Revoluției, nr.22, Podgoria terasa",46.183080,21.324810
+B111,B111,Pomenirea,"Calea Bodrogului, nr.4",46.169230,21.290930
+B112,B112,Pomenirea,"Calea Bodrogului, nr.4",46.169110,21.290340
+B113,B113,Pomenirea,"str. Pădurii, nr.165",46.168800,21.291630
+B114,B114,Pomenirea,"str. Pădurii, nr.151",46.169570,21.292060
+B116,B116,Radu Negru,"str. Câmpurilor, nr.27",46.218290,21.283280
+B117,B117,Radu Negru,"str. Câmpurilor, nr.23",46.218010,21.283540
+B119,B119,Rândunicii,"str. Rândunicii, nr.56",46.197960,21.326720
+B121,B121,Râșnov,"str. Râșnov, nr.4",46.199270,21.323570
+B122,B122,Real,Parcarea Magazinului Real,46.169730,21.378770
+B123,B123,Renașterii,"str. Voinicilor, nr.11-13",46.170310,21.359520
+B125,B125,Renașterii,"Calea Radnei, nr.176",46.176820,21.360070
+B127,B127,Saturn,"str. Poetului, nr.36",46.202380,21.298110
+B128,B128,Saturn,"str. Poetului, nr.40",46.202510,21.297860
+B130,B130,Sânicolaul Mic,"str. Steagului, nr.85-86",46.135600,21.352600
+B133,B133,Simion Bărnuțiu,"Calea Victoriei, nr.38",46.186728,21.310016
+B134,B134,Simion Bărnuțiu,"Calea Victoriei, nr.15-17",46.186550,21.309800
+B135,B135,Ștefan Zarie,"str. Steagului, nr.51-53",46.138770,21.346220
+B136,B136,Ștefan Zarie,"str. Steagului, nr.76",46.138710,21.346060
+B138,B138,Toth Arpad,"str. Poetului, nr.114",46.211640,21.290760
+B139,B139,Toth Arpad,"str. Poetului, nr.127",46.211910,21.290330
+B140,B140,Trenului,"str. Trenului, nr.183",46.206590,21.322920
+B141,B141,Tribunul Corcheș,"str. Câmpurilor, FN",46.214430,21.287990
+B142,B142,Tribunul Corcheș,"str. Câmpurilor, nr.1",46.215230,21.287170
+B143,B143,Trotușului,"str. Trotușului, nr.33",46.193350,21.275340
+B144,B144,Trotușului,"str. Trotușului, nr.28",46.193920,21.275280
+B145,B145,U.T.A.,"Calea Aurel Vlaicu, bl.U4, sc.A",46.191720,21.308920
+B146,B146,U.T.A.,"Calea Aurel Vlaicu, nr.60",46.192060,21.309850
+B147,B147,Universului,"str. Câmpurilor, nr.77",46.221350,21.279260
+B148,B148,Universului,"str. Câmpurilor, nr.75",46.221210,21.279570
+B151,B151,Bisericii,"str. Rândunicii, nr. 50",46.201300,21.327560
+B152,B152,Păpădiei,str. Someșului FN,46.206760,21.326630
+B153,B153,Vântului,"str. Vântului, nr.16-17",46.131820,21.352170
+B155,B155,Viitorului,"str. Trenului, nr.135",46.203360,21.322990
+B156,B156,Zimbrului,"str. A. Guttenbrunn, nr.129",46.148130,21.328960
+B157,B157,Posada,"str. Posada, nr.22",46.155670,21.316320
+B158,B158,Posada,"str. Posada, nr.19",46.154990,21.315860
+B159,B159,Constituției,"str. Constituției, nr.128",46.152570,21.307260
+B160,B160,Constituției,"str. Constituției, nr.89",46.152530,21.307730
+B161,B161,C. Turzii,"str. C. Turzii, nr.12",46.154130,21.303620
+B162,B162,Andrei Șaguna,"str. Andrei Șaguna, nr. 196",46.166110,21.301650
+B163,B163,Andrei Șaguna,"str. Andrei Șaguna, nr. 141",46.166190,21.301630
+B164,B164,Economu,"str. Economului, nr.2",46.154070,21.298590
+B165,B165,Economu,"str. Economului, nr.7",46.153870,21.298710
+B166,B166,Coloniștilor,"str. Coloniștilor, nr.23",46.152360,21.302940
+B167,B167,Coloniștilor,"str. Coloniștilor, nr.38",46.152530,21.302300
+B168,B168,C-tin Ticu Dumitrescu,"str. C-tin Ticu Dumitrescu, nr.41",46.148050,21.307730
+B169,B169,C-tin Ticu Dumitrescu,"str. C-tin Ticu Dumitrescu, nr. 41 vis-a-vis",46.148050,21.307730
+B174,B174,Westfield ram,"Cartier Westfield, DJ 709 C",46.225740,21.269560
+B175,B175,Westfield ram,"vis-a-vis Cartier Westfield, DJ 709 C",46.225640,21.269430
+P109,P109,La Cocoș,,46.169355,21.378228
+P169,P169,Galleria 1,,46.201107,21.291908
+P170,P170,Galleria 2,,46.200992,21.292117
+P171,P171,Galleria 3,,46.201636,21.288081
+P172,P172,Galleria 4,,46.201623,21.288180
+P240,P240,Primărie 2,,46.176404,21.318783
+P27,P27,Billa,,46.173032,21.348885
+P282,P282,Sâmbăteni 1,,46.141067,21.524181
+P283,P283,Sâmbăteni 2,,46.140982,21.524138
+P297,P297,Selgros,,46.172554,21.372656
+P350,P350,Mierlei,,46.192262,21.339486
+P351,P351,Orient,,46.188736,21.342547
+P352,P352,Gelu,,46.186144,21.340522
+P353,P353,Vișinului,,46.187721,21.337544
+P354,P354,Războieni,,46.189681,21.335491
+P366,P366,Vladimirescu Via Carmina,,46.166325,21.389821
+P367,P367,Grădina Poștei,,46.186048,21.349702
+P56,P56,Euromedic,,46.177035,21.345453
+P92,P92,Piața Romană,,46.166456,21.319970
+S001,S001,Cicir,DN 7,46.146020,21.480730
+S002,S002,Cicir,DN 7,46.146020,21.480730
+S006,S006,DN 7_2,DN 7,46.157120,21.428120
+S007,S007,Mândruloc,DN 7,46.148160,21.465460
+S008,S008,Mândruloc,DN 7,46.148160,21.465460
+S011,S011,Sâmbăteni 3,DN 7,46.141070,21.524100
+S012,S012,Ghioroc,DJ 708 B,46.156450,21.593670
+S013,S013,Ghioroc 1,DJ 708 C,46.155100,21.587010
+S018,S018,Vladimirescu Moară,DN 7,46.163400,21.405440
+S019,S019,Vladimirescu Moară,DN 7,46.163480,21.405170
+S020,S020,Vladimirescu Poliție,DN 7,46.165650,21.398190
+S021,S021,Vladimirescu Poliție,DN 7,46.165840,21.397640
+T001,T001,Ana Ipătescu,"Calea Timișorii, nr.4-6",46.155690,21.321740
+T002,T002,Ana Ipătescu,"Calea Timișorii, nr.5-7",46.157170,21.321940
+T003,T003,Alfa,"str. Condurașilor, nr.61",46.165960,21.291430
+T004,T004,Alfa,"str. Pădurii, nr.199",46.166660,21.290650
+T005,T005,Andrei Șaguna,"str. Condurașilor, nr.4-6",46.166550,21.300980
+T006,T006,Andrei Șaguna,"str. M.Kogălniceanu, nr.61",46.166600,21.302420
+T007,T007,Aris,"str. Cocorilor, nr.48",46.188790,21.303350
+T008,T008,Aris,"str. Cocorilor, nr.51",46.189010,21.303130
+T011,T011,Atrium 1,"Calea Aurel Vlaicu, B.C. Carpatica",46.190130,21.319310
+T012,T012,Atrium 2,"Calea Aurel Vlaicu, Astra Vagoane",46.190120,21.318690
+T013,T013,Autoservice,"str. Stefan Cel Mare, nr.1",46.145970,21.322500
+T014,T014,Autoservice,"str. Stefan Cel Mare, nr.1",46.146080,21.321930
+T017,T017,Băile Termale,Calea Aurel Vlaicu,46.201330,21.283720
+T018,T018,Băile Termale,Calea Aurel Vlaicu,46.201270,21.284070
+T019,T019,Caius Iacob,"B-dul Revoluției, lângă Bancpost",46.185680,21.325150
+T020,T020,Caius Iacob,"B-dul Revoluției, lângă Bancpost",46.185200,21.324840
+T024,T024,Galleria 4,"Calea Aurel Vlaicu, sens giratoriu Galleria Mall",46.201530,21.292380
+T027,T027,Biserica Sârbească,"str. Simeriei, după colț cu str. Acad. Teologică",46.167090,21.310780
+T028,T028,Biserica Sârbească,"Piața Sârbească, nr.2",46.166820,21.310970
+T029,T029,Bogdan Voievod,"str. Dunării, nr.49",46.205420,21.280150
+T030,T030,Bogdan Voievod,"str. Dunării, nr.49",46.205350,21.280190
+T033,T033,Caraimanul,"Calea Timișorii, nr.52",46.151740,21.321750
+T034,T034,Caraimanul,"Calea Timișorii, nr.55",46.153070,21.322030
+T035,T035,Clujului,"str. Condurașilor, nr. 38",46.166310,21.295770
+T036,T036,Clujului,"str. Condurașilor, bl.74 sc. C",46.166160,21.294920
+T037,T037,Confecții,"str. Pădurii, nr.27-29",46.180150,21.296650
+T038,T038,Confecții,"str. Pădurii, nr.23-25",46.180270,21.296770
+T039,T039,Cpt. Ignat,"str. Pădurii, nr.103-105",46.175150,21.294280
+T040,T040,Cpt. Ignat,"str. Pădurii, nr.93B",46.174600,21.293840
+T041,T041,Piața Obor-fac.,stație facultativă Intrare Piața Obor,46.171370,21.292780
+T042,T042,Piața Obor-fac.,stație facultativă Intrare Piața Obor,46.171080,21.292360
+T043,T043,Crișan,"B-dul Revoluției, bl.52-54",46.178540,21.319970
+T044,T044,Crișan,"B-dul Revoluției, bl.55",46.178270,21.319980
+T045,T045,Electrometal,"Calea Aurel Vlaicu, bl.Z16",46.194584,21.301992
+T046,T046,Electrometal,"Calea Aurel Vlaicu, bl. I 1",46.195290,21.300570
+T047,T047,Euromedic,"B-dul N.Titulescu, bl.315",46.175620,21.347320
+T048,T048,Făt Frumos,"Str. Făt Frumos, bl.A4",46.202730,21.291680
+T049,T049,Fortuna 1,"Calea Aurel Vlaicu, bl.A9 sc.B",46.200070,21.294170
+T050,T050,Fortuna 2,"Calea Aurel Vlaicu, bl.6 sc.B",46.199034,21.295489
+T051,T051,Gara Aradul Nou,"Zona Aradul Nou, bl.5-6",46.144950,21.334540
+T052,T052,Gara Aradul Nou,"Zona Aradul Nou, bl.5-6",46.144700,21.334280
+T053,T053,Gara CFR,"Piața Gării, nr. 8-9",46.188580,21.324870
+T054,T054,Gara CFR,"Piața Gării, nr. 8-9",46.188970,21.324270
+T055,T055,Gorunului,"str. Petru Rareș, nr. 43",46.194940,21.333770
+T056,T056,Gorunului,"str. Petru Rareș, nr. 43",46.194940,21.333770
+T057,T057,Grădinița,"str. Renașterii, nr. 42",46.171480,21.358160
+T058,T058,Grădinița,"str. Renașterii, nr.29",46.171010,21.357970
+T061,T061,Hodoș,"str. M.Kogălniceanu, nr.26-30",46.166860,21.306330
+T062,T062,Hodoș,"str. M.Kogălniceanu, nr.43",46.166810,21.305860
+T065,T065,Maximilian,"Calea Radnei, nr.126",46.180250,21.344370
+T066,T066,Maximilian,"Calea Radnei, nr.105",46.180230,21.344660
+T067,T067,Miorița,"Calea Radnei, nr.255",46.179050,21.349160
+T068,T068,Miorița,"Calea Radnei, nr.125-123",46.179330,21.348470
+T069,T069,Orologerie,"str. Cocorilor, nr.6-10",46.184930,21.300330
+T070,T070,Orologerie,"str. Cocorilor, nr.13-15",46.184980,21.300230
+T071,T071,Pășunii,"Calea Radnei, nr.226",46.177450,21.356190
+T072,T072,Pășunii,"Calea Radnei, nr.159",46.177590,21.355850
+T073,T073,Piața Auto,Calea Aurel Vlaicu,46.202080,21.260520
+T074,T074,Piața Auto,Calea Aurel Vlaicu,46.202080,21.260520
+T075,T075,Piața Gai,str. Dunării după intersecția cu Hatman Arbore,46.210180,21.277700
+T076,T076,Piața Gai,"str. Dunării colț cu Hatman Arbore, nr.95",46.209480,21.278030
+T077,T077,Piața Romană,"str. Tribunul Dobra, nr 24",46.167420,21.320030
+T078,T078,Piața Romană,"str. Tribunul Dobra, nr. 19",46.167980,21.319790
+T079,T079,Piața Romană,"str. Preparandiei, nr.2-6",46.166360,21.319020
+T081,T081,Piața U.T.A.,"Calea Aurel Vlaicu, bl.U4, sc.A",46.191940,21.309170
+T082,T082,Piața U.T.A.,"Calea Aurel Vlaicu, bl.Z22, sc.A",46.192730,21.306630
+T083,T083,Piața U.T.A.,"Calea Aurel Vlaicu, bl.Z22, sc.A",46.192730,21.306630
+T085,T085,Platforma Vest,Zona Industrială,46.205040,21.255460
+T086,T086,Podgoria,"B-dul Revoluției, nr.25",46.182050,21.322660
+T087,T087,Podgoria,"B-dul Revoluției, nr. 20B",46.183800,21.324370
+T088,T088,Podgoria,"str. Iuliu Maniu, bl.2-10",46.182390,21.325030
+T089,T089,Pomenirea,"str. Pădurii, nr.169-171",46.169150,21.291550
+T090,T090,Pomenirea,"str. Pădurii, nr.159-161",46.169480,21.291700
+T091,T091,Primărie 1,"B-dul Revoluției, bl.72",46.174870,21.317560
+T093,T093,Paul Chinezul 1,str. Preparandiei,46.166930,21.313890
+T094,T094,Paul Chinezul 2,str. Dornei,46.165890,21.317170
+T095,T095,RAR,"Calea Aurel Vlaicu, nr.269",46.201230,21.276310
+T096,T096,RAR,"Calea Aurel Vlaicu, nr.269",46.201350,21.276580
+T098,T098,Renașterii 2,"Calea Radnei, nr.185",46.176580,21.360760
+T099,T099,Renașterii 1,Calea Radnei nr.189,46.176680,21.360080
+T100,T100,Renașterii 4,"str. Renașterii, Liceul cu Program Sportiv",46.175290,21.359900
+T101,T101,Romanilor,Calea Romanilor (după sensul giratoriu),46.165830,21.321750
+T102,T102,Romanilor,Calea Romanilor (înainte sens giratoriu),46.166170,21.321650
+T103,T103,Școala,"str. Dunării, nr.17",46.202970,21.281800
+T104,T104,Școala,"str. Dunării, nr.17",46.202970,21.281800
+T105,T105,Sere,"Calea Zimandului, SIRE-Cablaje",46.203080,21.342830
+T106,T106,Sere,"Calea Zimandului, SIRE-Cablaje",46.202870,21.342430
+T107,T107,Stan Dragul,"str. Ștefan Cel Mare, nr.16-18",46.145150,21.326670
+T108,T108,Stan Dragul,"str. Ștefan Cel Mare, nr.23-25",46.145430,21.325970
+T109,T109,Teatru,"B-dul Revoluției, nr.96",46.172220,21.315940
+T110,T110,Teatru,"B-dul Revoluției, nr.95",46.172670,21.316400
+T111,T111,Traian,"Calea Romanilor, nr.28",46.162000,21.323220
+T112,T112,Traian,"Calea Romanilor, nr.35, bl.D1",46.162510,21.323210
+T113,T113,UM,"Calea Aurel Vlaicu, Unitatea Militară",46.201350,21.269620
+T114,T114,UM,"Calea Aurel Vlaicu, Unitatea Militară",46.201350,21.270060
+T115,T115,Universitate,"B-dul N.Titulescu, bl.309",46.177070,21.345090
+T116,T116,Universitate,"B-dul N. Titulescu, bl.310",46.176850,21.345630
+T117,T117,Uzina Electrică,"str. Iuliu Maniu, nr.77",46.181140,21.333460
+T118,T118,Uzina Electrică,"str. Iuliu Maniu, nr.86",46.181090,21.334050
+T119,T119,Vama Grădiște,"str. Petru Rareș, nr.127",46.199640,21.338990
+T120,T120,Vama Grădiște,"str. Petru Rareș, nr.127",46.199520,21.338780
+T121,T121,Vama Micălaca,"Calea Radnei, nr.280",46.175450,21.365730
+T122,T122,Vama Micălaca,"Calea Radnei, nr. 231-233",46.175620,21.365190
+T124,T124,Voinicilor 2,str. Voinicilor nr.37,46.171490,21.354670
+T126,T126,I.C. Brătianu,"B-dul Revoluției, nr. 37",46.180610,21.321814
+X001,X001,Vezuviului,str. Vezuviu,46.198605,21.325610
+X002,X002,Calea Timișorii,Calea Timișorii,46.148160,21.321450
+X003,X003,Horia,"Horia, jud. Arad",46.208470,21.462850
