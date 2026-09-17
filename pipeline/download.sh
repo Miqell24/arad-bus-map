@@ -17,7 +17,7 @@ mkdir -p data/gtfs data/osm data/src web/vendor
 # Pobrany wycinek jest przyjmowany dopiero wtedy, gdy PARSUJE SIĘ i ma sensowną
 # liczbę elementów. `grep -q '"elements"'` przepuszczał ucięte odpowiedzi
 # (Braszów, 16.08.2026: 65 kB fragmentu uznane za komplet).
-UA="transit-maps/1.0 (github.com/Miqell24)"   # overpass-api.de oddaje 406 bez User-Agenta
+UA="transit-maps/1.0 (github.com/AGCGHub)"   # overpass-api.de oddaje 406 bez User-Agenta
 
 ok_json () { # $1=plik  $2=minimalna liczba elementów
   python3 - "$1" "$2" <<'PYEOF' 2>/dev/null

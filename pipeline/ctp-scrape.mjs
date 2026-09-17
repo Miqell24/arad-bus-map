@@ -26,7 +26,7 @@ const SRC = join(ROOT, 'data/src');
 
 const t0 = Date.now();
 const log = (m) => console.log(`[scrape ${((Date.now() - t0) / 1000).toFixed(1)}s] ${m}`);
-const UA = 'Mozilla/5.0 (transit-maps family; contact via github.com/Miqell24)';
+const UA = 'Mozilla/5.0 (transit-maps family; contact via github.com/AGCGHub)';
 const REFRESH = process.argv.includes('--refresh');
 
 // BusMan pisze w windows-1250; zapisujemy pliki jako UTF-8, żeby feed nie musiał zgadywać
